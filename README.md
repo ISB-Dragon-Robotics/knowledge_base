@@ -24,7 +24,7 @@ layout:
 
 ## Navigation
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>About Us</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/707A0574-Enhanced-NR.jpg">707A0574-Enhanced-NR.jpg</a></td></tr><tr><td></td><td>ISB Documentation Repository</td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Technical Documentation</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>About Us</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/707A0574-Enhanced-NR.jpg">707A0574-Enhanced-NR.jpg</a></td></tr><tr><td></td><td>ISB Documentation Repository</td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Technical Documentation</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Judging</td><td></td><td></td><td></td><td></td></tr><tr><td>ISB Robotics Scrimmage</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 <details>
 
