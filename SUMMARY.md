@@ -38,3 +38,12 @@
 ## Policies
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
+
+## Documentation Repository <a href="#docs-repo" id="docs-repo"></a>
+
+* [Documentation Homepage](docs-repo/documentation-homepage.md)
+* [Engineering Notebooks](docs-repo/engineering-notebooks.md)
+
+## Technical Documentation <a href="#tech-docs" id="tech-docs"></a>
+
+* [Page 1](tech-docs/page-1.md)
