@@ -23,8 +23,7 @@
   * [VEX V5 Robotics Competition](about-us/programs-and-initiatives/vex-v5-robotics-competition.md)
   * [VEX IQ Robotics Competition](about-us/programs-and-initiatives/vex-iq-robotics-competition.md)
   * [APAC Robotics](about-us/programs-and-initiatives/apac-robotics.md)
-  * [ISB Robotics Scrimmage](about-us/programs-and-initiatives/isb-robotics-scrimmage/README.md)
-    * [Competition History/Ranking](about-us/programs-and-initiatives/isb-robotics-scrimmage/competition-history-ranking.md)
+  * [ISB Robotics Scrimmage](about-us/programs-and-initiatives/isb-robotics-scrimmage.md)
   * [HS Student Mentors](about-us/programs-and-initiatives/hs-student-mentors.md)
 
 ## Documentation Repository <a href="#docs-repo" id="docs-repo"></a>
@@ -37,6 +36,8 @@
   * [Pre-2021 Notebooks](docs-repo/past-engineering-notebooks/pre-2021-notebooks.md)
 * [Robot Programs/Codes](docs-repo/robot-programs-codes.md)
 * [ISB Scrimmage Repository](docs-repo/isb-scrimmage-repository.md)
+* [ISB Robotics Scouting Database](docs-repo/isb-robotics-scouting-database.md)
+* [APAC Robotics Documentation](docs-repo/apac-robotics-documentation.md)
 
 ## Technical Documentation <a href="#tech-docs" id="tech-docs"></a>
 

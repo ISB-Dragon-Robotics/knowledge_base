@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/IMG_2736.JPG
+coverY: 0
+---
+
 # ISB HS Robotics Club
 
 The ISB High School Robotics Club is a student-run organization that focuses on the experimentation and adaption of engineering, programming and robotics skills through the participation of robotics competitions and the creation of passion projects.&#x20;

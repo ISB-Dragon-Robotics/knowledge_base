@@ -1,2 +1,0 @@
-# Competition History/Ranking
-

@@ -17,7 +17,9 @@ As of 2024, the HS Executive Team consists of 8 _de jure_ positions with some le
 * Lead Programmer
 * Lead Engineer
 * MS Robotics Coordinator
-* Public Relations/Communications Exec.&#x20;
+* _Public Relations/Communications Exec._&#x20;
+
+The respective powers and responsibilities of each executive in the team is outline in the ISB Robotics Club Constitution.&#x20;
 
 ## 2024-2025 HS Executive Team
 
@@ -30,7 +32,7 @@ The HS Executive Team for the 2024-2025 school year are:
 * Lead Programmer: Leon Zhu&#x20;
 * Lead Engineer: William Pan&#x20;
 * MS Robotics Coordinator: Samuel Yao & Ryan Quon&#x20;
-* Public Relations/Communications Exec. _(Vacant)_
+* _Public Relations/Communications Exec. (Vacant)_
 
 ## Past HS Executive Team Members
 
@@ -45,11 +47,11 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 | Samuel Yao (Lead Engineer)   | Haozhe Liu (Lead Engineer)      | Silas Brock   |
 |                              |                                 | Titus Brock   |
 
-| 2020-2021 | 2019-2020       | 2018-2019 |
-| --------- | --------------- | --------- |
-|           | Aiki De Peralta |           |
-|           | Arthur Wang     |           |
-|           | Victor Ren      |           |
-|           | Austin Zeng     |           |
-|           | Hannah Lu       |           |
-|           | Vanessa Quon    |           |
+| 2020-2021                     | 2019-2020       | 2018-2019 |
+| ----------------------------- | --------------- | --------- |
+| Danny Murray (Co-President)   | Aiki De Peralta |           |
+| Haozhe Liu (Co-President)     | Arthur Wang     |           |
+| Jay Cho (Secretary)           | Victor Ren      |           |
+| Justin Jeon (Lead Programmer) | Austin Zeng     |           |
+| Eric Xie (Lead Engineer)      | Hannah Lu       |           |
+|                               | Vanessa Quon    |           |
