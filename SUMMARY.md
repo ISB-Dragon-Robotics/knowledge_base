@@ -30,7 +30,8 @@
 
 * [Documentation Homepage](docs-repo/documentation-homepage.md)
 * [Past Engineering Notebooks](docs-repo/past-engineering-notebooks/README.md)
-  * [2023-2024: Over Under](docs-repo/past-engineering-notebooks/2023-2024-over-under.md)
+  * [2023-2024: Over Under](docs-repo/past-engineering-notebooks/2023-2024-over-under/README.md)
+    * [Team D Notebook (Digital)](docs-repo/past-engineering-notebooks/2023-2024-over-under/team-d-notebook-digital.md)
   * [2022-2023: Spin Up](docs-repo/past-engineering-notebooks/2022-2023-spin-up.md)
   * [2021-2022: Tipping Point](docs-repo/past-engineering-notebooks/2021-2022-tipping-point.md)
   * [Pre-2021 Notebooks](docs-repo/past-engineering-notebooks/pre-2021-notebooks.md)
