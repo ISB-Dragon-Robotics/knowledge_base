@@ -5,7 +5,7 @@ coverY: 0
 
 # APAC Robotics Documentation
 
-## SASPX Trial APAC Tournament&#x20;
+SASPX Trial APAC Tournament&#x20;
 
 ### Event Documents
 
@@ -31,6 +31,3 @@ Qualification Rankings
 
 Below are the recordings for certain matches. Match numbers, if available, are mentioned in the caption.
 
-<figure><img src="../.gitbook/assets/1ECA22DA-BAED-4B0C-A5B7-EFD2579FFC1D_1_105_c.jpeg" alt=""><figcaption><p>Qualification round ???</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/D5112DDA-88F8-498D-BBFC-D49C3A44CDB1_1_105_c (1).jpeg" alt=""><figcaption><p>Finals round ???</p></figcaption></figure>
