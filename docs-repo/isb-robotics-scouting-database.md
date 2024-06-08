@@ -23,13 +23,13 @@ When possible, information is taken from official sources such as Robotevents.co
 
 ### Release Notes:
 
-Statistics for the 2024 TIS Robotics Challenge have not been calculated and will be done so in a future update. With the end of the Over Under season, this spreadsheet will recieve one final update.
+Statistics for the 2024 TIS Robotics Challenge have not been calculated and will be done so in a future update. With the end of the Over Under season, this spreadsheet will receive one final update.
 
-For the 2024 Trial APAC Robotics Tournament (Over Under), match statistics may be inaccurate due to the structure of the tournament conflicting with intended Tournament Manager structuring (with a 3rd place match that was not recorded properly). ISB Robotics contributors will endeavor to use match footage to calculate the scores for this match and incorporate it into our calculations in the future.&#x20;
+For the 2024 Trial APAC Robotics Tournament (Over Under), match statistics may be inaccurate due to the structure of the tournament conflicting with the intended Tournament Manager structuring (with a 3rd place match that was not recorded properly). ISB Robotics contributors will endeavor to use match footage to calculate the scores for this match and incorporate it into our calculations in the future.&#x20;
 
 ## Contributors
 
-* Samuel Yao (samuel.yao@student.isb.bj.edu.cn)
+* Samuel Yao (samuel.yao@student.isb.bj.edu.cn)&#x20;
 * Silas Brock
 * Evan Sun
 
