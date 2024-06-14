@@ -19,3 +19,4 @@ For the 2024-2025 school year, the Faculty Advisors of the ISB HS Robotics Club 
 The ISB Robotics Club would like to acknowledge the dedication & contributions of our previous faculty advisors, including:
 
 * Tyler Beatty - Former HS Computer Science Teacher
+* Dan Cavallerano - Former HS Chemistry & Science Teacher

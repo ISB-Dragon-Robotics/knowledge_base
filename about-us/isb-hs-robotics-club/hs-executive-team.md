@@ -47,6 +47,8 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 | Samuel Yao (Lead Engineer)   | Haozhe Liu (Lead Engineer)      | Silas Brock   |
 |                              |                                 | Titus Brock   |
 
+
+
 | 2020-2021                     | 2019-2020       | 2018-2019 |
 | ----------------------------- | --------------- | --------- |
 | Danny Murray (Co-President)   | Aiki De Peralta |           |
@@ -55,3 +57,17 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 | Justin Jeon (Lead Programmer) | Austin Zeng     |           |
 | Eric Xie (Lead Engineer)      | Hannah Lu       |           |
 |                               | Vanessa Quon    |           |
+
+| 2017-2018 | 2016-2017 | 2015-2016 |
+| --------- | --------- | --------- |
+|           |           |           |
+|           |           |           |
+|           |           |           |
+
+| 2014-2015\*                  |   |   |
+| ---------------------------- | - | - |
+| Chris Wong (Co-President)    |   |   |
+| Note Geerdes (Co-President)  |   |   |
+| Jonathan Li (Chief Engineer) |   |   |
+| Saksham Bausal (Secretary)   |   |   |
+| Tim Park (Public Relations)  |   |   |

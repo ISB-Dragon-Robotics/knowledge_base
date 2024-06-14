@@ -5,7 +5,7 @@ coverY: 0
 
 # APAC Robotics Documentation
 
-SASPX Trial APAC Tournament&#x20;
+## SASPX Trial APAC Tournament (2024: Over Under)
 
 ### Event Documents
 

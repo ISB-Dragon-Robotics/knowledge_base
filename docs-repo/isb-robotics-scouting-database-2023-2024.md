@@ -5,7 +5,7 @@ description: >-
   outside of official RECF/V5RC events
 ---
 
-# ISB Robotics Scouting Database
+# ISB Robotics Scouting Database (2023-2024)
 
 ## Methodology
 
@@ -35,7 +35,7 @@ For the 2024 Trial APAC Robotics Tournament (Over Under), match statistics may b
 
 ## Sources & Inspiration
 
-The above database was inspired by the official VEX Robotevents website and community-built databases in the V5RC and FRC/FTC community such as:
+The above database was inspired by the official RECF Robotevents website and community-built databases in the V5RC and FRC/FTC community such as:
 
 * [https://vrc-data-analysis.com/](https://vrc-data-analysis.com/)&#x20;
 * VRC RoboScout (iOS App)
