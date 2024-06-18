@@ -30,7 +30,7 @@ Qualification Match Results
 Elimination Match Results\*
 {% endfile %}
 
-\*As 64792A has to leave early due to unforeseen circumstances, the other BCIS team played in replacement of 64792A in the scrimmage. This information is not reflected in the elimination match results.
+\*As 64792A had to leave early due to unforeseen circumstances, the other BCIS team played in replacement of 64792A in the elimination matches of the tournament. This information is not reflected in the elimination match results.
 
 ### Volunteer List
 
