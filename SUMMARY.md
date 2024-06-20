@@ -64,4 +64,5 @@
 
 ## Judging
 
-* [Page 1](judging/page-1.md)
+* [Judging Homepage](judging/judging-homepage.md)
+* [Quick Links](judging/quick-links.md)
