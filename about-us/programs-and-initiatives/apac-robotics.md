@@ -1,5 +1,7 @@
 ---
 description: Asia-Pacific Activities Conference Robotics
+cover: ../../.gitbook/assets/IMG_0118.jpg
+coverY: 0
 ---
 
 # APAC Robotics
