@@ -15,7 +15,8 @@
   * [86832D](about-us/isb-hs-robotics-club/86832d.md)
   * [86832V](about-us/isb-hs-robotics-club/86832v.md)
 * [ISB MS Robotics](about-us/isb-ms-robotics/README.md)
-  * [Faculty Advisors (MS)](about-us/isb-ms-robotics/faculty-advisors-ms.md)
+  * [Faculty Supervisors (MS)](about-us/isb-ms-robotics/faculty-supervisors-ms.md)
+  * [History](about-us/isb-ms-robotics/history.md)
   * [86832E](about-us/isb-ms-robotics/86832e.md)
   * [86832F](about-us/isb-ms-robotics/86832f.md)
   * [86832G](about-us/isb-ms-robotics/86832g.md)
@@ -23,9 +24,9 @@
 * [Programs & Initiatives](about-us/programs-and-initiatives/README.md)
   * [VEX V5 Robotics Competition](about-us/programs-and-initiatives/vex-v5-robotics-competition.md)
   * [VEX IQ Robotics Competition](about-us/programs-and-initiatives/vex-iq-robotics-competition.md)
-  * [APAC Robotics](about-us/programs-and-initiatives/apac-robotics.md)
   * [ISB Robotics Scrimmage](about-us/programs-and-initiatives/isb-robotics-scrimmage.md)
-  * [HS Student Mentors](about-us/programs-and-initiatives/hs-student-mentors.md)
+  * [Student Mentorship](about-us/programs-and-initiatives/student-mentorship.md)
+  * [APAC Robotics](about-us/programs-and-initiatives/apac-robotics.md)
 
 ## Documentation Repository <a href="#docs-repo" id="docs-repo"></a>
 
@@ -50,7 +51,7 @@
       * [86832G Notebook](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832g-notebook.md)
       * [86832H Notebook](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832h-notebook.md)
 * [Robot Programs/Codes](docs-repo/robot-programs-codes.md)
-* [ISB Scrimmage Repository](docs-repo/isb-scrimmage-repository.md)
+* [ISB Scrimmage/Tournament Repository](docs-repo/isb-scrimmage-tournament-repository.md)
 * [ISB Robotics Scouting Database (2023-2024)](docs-repo/isb-robotics-scouting-database-2023-2024.md)
 * [APAC Robotics Documentation](docs-repo/apac-robotics-documentation.md)
 

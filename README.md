@@ -20,11 +20,11 @@ layout:
 
 # 🏠 Main Page
 
-Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school community in China.&#x20;
+Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school robotics community in China.&#x20;
 
 ## Navigation
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>About Us</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/707A0574-Enhanced-NR.jpg">707A0574-Enhanced-NR.jpg</a></td></tr><tr><td>Documentation Repository</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/BA13F5F4-643A-43DA-AF49-C527B0E61C04_1_105_c.jpeg">BA13F5F4-643A-43DA-AF49-C527B0E61C04_1_105_c.jpeg</a></td></tr><tr><td>Technical Documentation</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/21626834-752C-43AD-9BF6-9F1D64101256_1_105_c.jpeg">21626834-752C-43AD-9BF6-9F1D64101256_1_105_c.jpeg</a></td></tr><tr><td>Judging</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/15CCB9CB-F50E-47D1-ADB9-87CDEE70E423_1_102_o.jpeg">15CCB9CB-F50E-47D1-ADB9-87CDEE70E423_1_102_o.jpeg</a></td></tr><tr><td>ISB Robotics Scrimmage</td><td><a href="about-us/programs-and-initiatives/isb-robotics-scrimmage.md">isb-robotics-scrimmage.md</a></td><td><a href=".gitbook/assets/Robotics Scrimmage-7.jpg">Robotics Scrimmage-7.jpg</a></td></tr><tr><td>HS Student Mentors</td><td><a href="about-us/programs-and-initiatives/hs-student-mentors.md">hs-student-mentors.md</a></td><td><a href=".gitbook/assets/F36A9338-C92B-4024-BCD5-5900C6B62608_1_102_o.jpeg">F36A9338-C92B-4024-BCD5-5900C6B62608_1_102_o.jpeg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>About Us</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/707A0574-Enhanced-NR.jpg">707A0574-Enhanced-NR.jpg</a></td></tr><tr><td>Documentation Repository</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/BA13F5F4-643A-43DA-AF49-C527B0E61C04_1_105_c.jpeg">BA13F5F4-643A-43DA-AF49-C527B0E61C04_1_105_c.jpeg</a></td></tr><tr><td>Technical Documentation</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/21626834-752C-43AD-9BF6-9F1D64101256_1_105_c.jpeg">21626834-752C-43AD-9BF6-9F1D64101256_1_105_c.jpeg</a></td></tr><tr><td>Judging</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/15CCB9CB-F50E-47D1-ADB9-87CDEE70E423_1_102_o.jpeg">15CCB9CB-F50E-47D1-ADB9-87CDEE70E423_1_102_o.jpeg</a></td></tr><tr><td>ISB Robotics Scrimmage</td><td><a href="about-us/programs-and-initiatives/isb-robotics-scrimmage.md">isb-robotics-scrimmage.md</a></td><td><a href=".gitbook/assets/Robotics Scrimmage-7.jpg">Robotics Scrimmage-7.jpg</a></td></tr><tr><td>HS Student Mentors</td><td><a href="about-us/programs-and-initiatives/student-mentorship.md">student-mentorship.md</a></td><td><a href=".gitbook/assets/F36A9338-C92B-4024-BCD5-5900C6B62608_1_102_o.jpeg">F36A9338-C92B-4024-BCD5-5900C6B62608_1_102_o.jpeg</a></td></tr></tbody></table>
 
 <details>
 
@@ -49,5 +49,10 @@ Other users who wish to submit changes/updates may email the current Club Presid
 * Any additional information
 
 </details>
+
+## Site Contributors:
+
+* Samuel Yao (Founder)
+* William Pan
 
 ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki and IIWII Robotics Wiki for the inspiration of this knowledge base.

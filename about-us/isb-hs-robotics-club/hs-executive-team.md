@@ -64,10 +64,12 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 |           |           |           |
 |           |           |           |
 
-| 2014-2015\*                  |   |   |
-| ---------------------------- | - | - |
-| Chris Wong (Co-President)    |   |   |
-| Note Geerdes (Co-President)  |   |   |
-| Jonathan Li (Chief Engineer) |   |   |
-| Saksham Bausal (Secretary)   |   |   |
-| Tim Park (Public Relations)  |   |   |
+| 2014-2015\*                  | 2013-2014 |
+| ---------------------------- | --------- |
+| Chris Wong (Co-President)    |           |
+| Note Geerdes (Co-President)  |           |
+| Jonathan Li (Chief Engineer) |           |
+| Saksham Bausal (Secretary)   |           |
+| Tim Park (Public Relations)  |           |
+
+\*Information is obtained from secondary sources due to the loss of historical club documentation. Blank columns indicate that information regarding executive leadership for the given school year is currently unavailable.&#x20;
