@@ -3,3 +3,5 @@
 Excellence Award Criteria Check: [https://bren.app/excellence/](https://bren.app/excellence/)
 
 qnaplus (Optimized Q\&A Website): [https://battlesquid.github.io/qnaplus/#/](https://battlesquid.github.io/qnaplus/#/)
+
+Referee FYI ( Minor violations record, for referees) [https://referee.fyi/](https://referee.fyi/)

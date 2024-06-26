@@ -61,6 +61,8 @@
 * [VEX Electronics](tech-docs/vex-electronics.md)
 * [VEX Parts & Engineering](tech-docs/vex-parts-and-engineering.md)
 * [VEX Design](tech-docs/vex-design.md)
+* [Programming](tech-docs/programming/README.md)
+  * [Autonomous](tech-docs/programming/autonomous.md)
 
 ## Judging
 
