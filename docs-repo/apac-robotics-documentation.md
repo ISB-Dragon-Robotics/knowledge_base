@@ -29,5 +29,7 @@ Qualification Rankings
 
 ### Match Recordings
 
-Below are the recordings for certain matches. Match numbers, if available, are mentioned in the caption.
+While many matches have been unfortunately lost to time, various match recordings made by ISB Robotics members have been uploaded to the ISB Robotics YouTube Channel for public reference.
+
+[https://www.youtube.com/@ISB-Robotics/videos](https://www.youtube.com/@ISB-Robotics/videos)
 

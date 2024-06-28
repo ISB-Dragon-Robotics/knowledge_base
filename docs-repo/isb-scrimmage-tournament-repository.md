@@ -86,6 +86,17 @@ The following team members are listed based on submitted information prior to th
   * Jonathan Shao
   * Carey Zhou
 
+### Match Recordings
+
+ISB Live has provided a live stream for the entire duration of the event here:
+
+* Stream 1: [https://www.youtube.com/live/Ors1UHW\_K2s?si=FoGUm3gWRjNrQl8i](https://www.youtube.com/live/Ors1UHW\_K2s?si=FoGUm3gWRjNrQl8i)
+* Stream 2: [https://www.youtube.com/live/eiHDOP0W66Q?si=hIcjdoW6ssM2Q6\_C](https://www.youtube.com/live/eiHDOP0W66Q?si=hIcjdoW6ssM2Q6\_C)
+
+A recording of the Finals match is also available on the ISB Robotics YouTube Account:
+
+* [https://youtu.be/E8QEDA-UNx0?si=2ef3TKzA6y1An\_m3](https://youtu.be/E8QEDA-UNx0?si=2ef3TKzA6y1An\_m3)
+
 ## ISB Robotics Tech Challenge: (DATE TBC) (Tower Takeover)
 
 The ISB Robotics Tech Challenge was a scrimmage hosted by the ISB HS Robotics Club in Gym 3 between the International School of Beijing and the Tianjin International School. Extensive information regarding past scrimmages is currently unavailable. For more information see the following blog post by ISB Communications: [https://blog.isb.cn/robot-wars](https://blog.isb.cn/robot-wars).
