@@ -13,7 +13,6 @@
   * [86832B](about-us/isb-hs-robotics-club/86832b.md)
   * [86832C](about-us/isb-hs-robotics-club/86832c.md)
   * [86832D](about-us/isb-hs-robotics-club/86832d.md)
-  * [86832V](about-us/isb-hs-robotics-club/86832v.md)
 * [ISB MS Robotics](about-us/isb-ms-robotics/README.md)
   * [Faculty Supervisors (MS)](about-us/isb-ms-robotics/faculty-supervisors-ms.md)
   * [History](about-us/isb-ms-robotics/history.md)
