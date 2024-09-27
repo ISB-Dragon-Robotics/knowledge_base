@@ -11,7 +11,7 @@ description: >-
 For the 2024-2025 school year, the Faculty Advisors of ISB MS Robotics are:
 
 * Jesús García Jordà - MS Math Teacher
-* TBC
+* Susan Su - EdTech Teaching Assistant, ISB Design Staff
 
 ## Past Faculty Advisors
 
