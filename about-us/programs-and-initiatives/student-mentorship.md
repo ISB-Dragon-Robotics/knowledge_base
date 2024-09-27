@@ -12,7 +12,13 @@ The student mentorship program was founded in the 2023-2024 VIQRC season with fo
 
 ## 2024-2025 HS Student Mentors
 
-The HS Student Mentors for the 2024-2025 season will be announced at the start of the 2024-2025 school year.&#x20;
+The following are the HS Student Mentors for the 2024-2025 VIQRC season:&#x20;
+
+| 2024-2025   |
+| ----------- |
+| Ryan Quon   |
+| William Pan |
+| Samuel Yao  |
 
 ## Former HS Student Mentors
 
