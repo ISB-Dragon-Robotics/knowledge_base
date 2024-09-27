@@ -10,4 +10,4 @@ Referee FYI ( Minor violations record, for referees) [https://referee.fyi/](http
 
 Jerrio Field Diagram (Exported):&#x20;
 
-<figure><img src="../.gitbook/assets/V5RC-HighStakes-H2H-TileColor66_71-2000x2000.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/V5RC-HighStakes-H2H-TileColor66_71-2000x2000.png" alt=""><figcaption></figcaption></figure>

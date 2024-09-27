@@ -2,7 +2,7 @@
 description: >-
   The HS Student Mentorship program is an initiative where select HS Robotics
   members participate in MS Robotics sessions and activities as student mentors.
-cover: ../../.gitbook/assets/IMG_0819.jpeg
+cover: ../../../.gitbook/assets/IMG_0819.jpeg
 coverY: -462.55555555555554
 ---
 

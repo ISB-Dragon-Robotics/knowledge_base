@@ -1,6 +1,6 @@
 ---
 description: Asia-Pacific Activities Conference Robotics
-cover: ../../.gitbook/assets/IMG_0118.jpg
+cover: ../../../.gitbook/assets/IMG_0118.jpg
 coverY: 0
 ---
 
@@ -24,7 +24,7 @@ The first APAC Robotics tournament was hosted by the Shanghai American School Pu
 * Western Academy of Beijing (APAC Member)
 * Wellington College International Shanghai
 
-For more information about the historical documentation of past APAC Robotics tournaments please click [here](../../docs-repo/apac-robotics-documentation.md).
+For more information about the historical documentation of past APAC Robotics tournaments please click [here](../../../docs-repo/documentation-homepage/apac-robotics-documentation.md).
 
 For the 2024-2025 High Stakes season, the event is set to be hosted by Shanghai American School Pudong during November of 2024.&#x20;
 

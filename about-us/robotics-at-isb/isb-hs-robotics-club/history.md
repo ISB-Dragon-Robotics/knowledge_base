@@ -12,5 +12,5 @@ Although most students primarily stay within one of the four teams, teams are fl
 
 Before the creation of the ISB MS/HS Design Center, the HS Robotics Club was hosted in an EdTech classroom opposite the HS Office. In the 2020-2021 school year, after the construction of the design center, HS Robotics took place in the dedicated robotics area near the rear of the design center.&#x20;
 
-86832V, the designated Varsity team of the ISB Robotics Club, was founded in the 2024-2025 High Stakes season after increased club size and participation.&#x20;
+At the start of the 2024-2025 V5RC High Stakes, season, there are 46 members within ISB High School Robotics.&#x20;
 

@@ -10,16 +10,16 @@ description: >-
 
 As of 2024, the HS Executive Team consists of 8 _de jure_ positions with some left vacant:
 
-* Club President
-* Vice President
-* Club Secretary
-* Lead Designer
-* Lead Programmer
-* Lead Engineer
-* MS Robotics Coordinator
-* _Public Relations/Communications Exec._&#x20;
+* Club President: Student leader of ISB HS Robotics.
+* Vice President: Deputy student leader of ISB HS Robotics.
+* Club Secretary: Manages club finances, attendance and other administrative matters.
+* Lead Designer: Leads education of tool-assisted design, design documentation and design cycle processes.&#x20;
+* Lead Programmer: Leads teaching of programming, software tools and sensors.
+* Lead Engineer: Leads introduction and teaching of building, engineering, electrical and pneumatic construction.
+* MS Robotics Coordinator: Leads the [Student Mentorship Program](../programs-and-initiatives/student-mentorship.md).
+* _Public Relations/Communications Exec.: Manages club social media and communicates with community stakeholders & other teams._
 
-The respective powers and responsibilities of each executive in the team is outline in the ISB Robotics Club Constitution.&#x20;
+The respective powers and responsibilities of each executive in the team is outlined in the ISB Robotics Club Constitution.&#x20;
 
 ## 2024-2025 HS Executive Team
 
@@ -41,7 +41,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 | 2023-2024                    | 2022-2023                       | 2021-2022     |
 | ---------------------------- | ------------------------------- | ------------- |
 | Silas Brock (Co-President)   | Silas Brock (Co-President)      | Derek Huang   |
-| Myungjung Lee (Co-President) | Myungjung Lee (Co-President)    | Haozhe Liu    |
+| Myungjun Lee (Co-President)  | Myungjun Lee (Co-President)     | Haozhe Liu    |
 | Ryan Quon (Secretary)        | Ryan Quon (Secretary)           | Justin Jeon   |
 | Taylor Kim (Lead Programmer) | Sofia Poulsen (Lead Programmer) | SeongJun Choi |
 | Samuel Yao (Lead Engineer)   | Haozhe Liu (Lead Engineer)      | Silas Brock   |

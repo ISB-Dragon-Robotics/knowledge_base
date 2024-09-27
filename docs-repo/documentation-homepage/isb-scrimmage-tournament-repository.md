@@ -1,6 +1,6 @@
 ---
 description: Documentation repository of past ISB Scrimmages
-cover: ../.gitbook/assets/7868DC9F-A6CF-4AC7-AA3E-4E8E59625A2A 2.JPG
+cover: ../../.gitbook/assets/7868DC9F-A6CF-4AC7-AA3E-4E8E59625A2A 2.JPG
 coverY: 0
 ---
 
@@ -14,19 +14,19 @@ Please contact Samuel Yao (samuel.yao@student.isb.bj.edu.cn or yaoshisamuel@gmai
 
 ### Event Documents
 
-{% file src="../.gitbook/assets/TeamList.pdf" %}
+{% file src="../../.gitbook/assets/TeamList.pdf" %}
 Team List
 {% endfile %}
 
-{% file src="../.gitbook/assets/QualRankings.pdf" %}
+{% file src="../../.gitbook/assets/QualRankings.pdf" %}
 Qualification Round Rankings
 {% endfile %}
 
-{% file src="../.gitbook/assets/QualResults.pdf" %}
+{% file src="../../.gitbook/assets/QualResults.pdf" %}
 Qualification Match Results
 {% endfile %}
 
-{% file src="../.gitbook/assets/ElimResults.pdf" %}
+{% file src="../../.gitbook/assets/ElimResults.pdf" %}
 Elimination Match Results\*
 {% endfile %}
 
