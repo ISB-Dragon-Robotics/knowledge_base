@@ -6,6 +6,8 @@ qnaplus (Optimized Q\&A Website): [https://battlesquid.github.io/qnaplus/#/](htt
 
 Referee FYI ( Minor violations record, for referees) [https://referee.fyi/](https://referee.fyi/)
 
+Robomentors: worlds software for judging [https://robomentors.com/](https://robomentors.com/)
+
 
 
 Jerrio Field Diagram (Exported):&#x20;
