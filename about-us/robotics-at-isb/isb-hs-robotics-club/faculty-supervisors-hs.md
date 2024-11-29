@@ -1,10 +1,10 @@
 ---
 description: >-
-  The Faculty Advisors of the ISB HS Robotics Club oversee the administration
+  The Faculty Supervisors of the ISB HS Robotics Club oversee the administration
   and operations of the HS Robotics Club.
 ---
 
-# Faculty Advisors (HS)
+# Faculty Supervisors (HS)
 
 ## 2024-2025 Faculty Advisors
 

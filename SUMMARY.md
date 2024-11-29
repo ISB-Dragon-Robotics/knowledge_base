@@ -6,7 +6,7 @@
 
 * [Robotics at ISB](about-us/robotics-at-isb/README.md)
   * [ISB HS Robotics Club](about-us/robotics-at-isb/isb-hs-robotics-club/README.md)
-    * [Faculty Advisors (HS)](about-us/robotics-at-isb/isb-hs-robotics-club/faculty-advisors-hs.md)
+    * [Faculty Supervisors (HS)](about-us/robotics-at-isb/isb-hs-robotics-club/faculty-supervisors-hs.md)
     * [History](about-us/robotics-at-isb/isb-hs-robotics-club/history.md)
     * [HS Executive Team](about-us/robotics-at-isb/isb-hs-robotics-club/hs-executive-team.md)
     * [86832A](about-us/robotics-at-isb/isb-hs-robotics-club/86832a.md)

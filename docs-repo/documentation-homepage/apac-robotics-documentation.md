@@ -1,5 +1,6 @@
 ---
 description: Record of APAC Robotics Tournament documentation from past tournaments
+cover: ../../.gitbook/assets/IMG_3042.jpeg
 coverY: 0
 ---
 
