@@ -6,7 +6,7 @@ coverY: 0
 
 # APAC Robotics Documentation
 
-## SASPD Trial APAC Tournament (2024: High Stakes)
+SASPD Trial APAC Tournament (2024: High Stakes)
 
 ### Event Documentation
 
@@ -28,7 +28,11 @@ This is the most complete account of all W/L/T in the tournament, albeit without
 
 We are currently in the process of collecting all available match recordings. All information currently available is uploaded to the ISB Robotics account.&#x20;
 
-[https://www.youtube.com/@ISB-Robotics/videos](https://www.youtube.com/@ISB-Robotics/videos)
+{% embed url="https://www.youtube.com/@ISB-Robotics/videos" %}
+
+Some match recordings, provided initially in the livestream by SASPD, are in the following playlist: [https://www.youtube.com/playlist?list=PLmNvF93QkKJeXV2EwAm2NrCQqaDH-8tAr](https://www.youtube.com/playlist?list=PLmNvF93QkKJeXV2EwAm2NrCQqaDH-8tAr)
+
+{% embed url="https://www.youtube.com/playlist?list=PLmNvF93QkKJeXV2EwAm2NrCQqaDH-8tAr" %}
 
 ## SASPX Trial APAC Tournament (2024: Over Under)
 
@@ -56,5 +60,5 @@ Qualification Rankings
 
 While many matches have been unfortunately lost to time, various match recordings made by ISB Robotics members have been uploaded to the ISB Robotics YouTube Channel for public reference.
 
-[https://www.youtube.com/@ISB-Robotics/videos](https://www.youtube.com/@ISB-Robotics/videos)
+{% embed url="https://www.youtube.com/@ISB-Robotics/videos" %}
 

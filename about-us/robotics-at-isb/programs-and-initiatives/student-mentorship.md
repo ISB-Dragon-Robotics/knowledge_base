@@ -19,6 +19,7 @@ The following are the HS Student Mentors for the 2024-2025 VIQRC season:&#x20;
 | Ryan Quon   |
 | William Pan |
 | Samuel Yao  |
+| Minghon Li  |
 
 ## Former HS Student Mentors
 
