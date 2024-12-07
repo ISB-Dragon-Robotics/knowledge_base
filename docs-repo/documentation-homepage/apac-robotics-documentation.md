@@ -6,7 +6,7 @@ coverY: 0
 
 # APAC Robotics Documentation
 
-SASPD Trial APAC Tournament (2024: High Stakes)
+## SASPD Trial APAC Tournament (2024: High Stakes)
 
 ### Event Documentation
 

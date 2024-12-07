@@ -17,7 +17,7 @@ When possible, information is taken from official sources such as Robotevents.co
 
 ### Spreadsheet: (June 5th Version)
 
-{% file src="../.gitbook/assets/2023-2024 OVER UNDER ANALYSIS.xlsx" %}
+{% file src="../../.gitbook/assets/2023-2024 OVER UNDER ANALYSIS.xlsx" %}
 
 (ISB Internal Link: [https://isbdragons.sharepoint.com/:x:/s/HighSchoolClubsandActivities/EU0exs7CAY9JnhEE77k8J5sBwkfgHfB5JPAqccduVQj2wg?e=29t3pm](https://isbdragons.sharepoint.com/:x:/s/HighSchoolClubsandActivities/EU0exs7CAY9JnhEE77k8J5sBwkfgHfB5JPAqccduVQj2wg?e=29t3pm))
 

@@ -1,3 +1,3 @@
-# Judging Homepage
+# Documentation Homepage
 
 Information about judging in VIQRC and V5RC is given within these pages.
