@@ -6,11 +6,56 @@ coverY: 0
 
 # ISB Scrimmage/Tournament Repository
 
+## ISB Robotics Scrimmage: December 7th, 2024 (High Stakes)
+
+The ISB HS Robotics Club hosted a VRC scrimmage as the ISB ES Theatre, with participating teams from the International School of Beijing, Beijing City International School and the Western Academy of Beijing.&#x20;
+
+Congratulations to 86832A and 86832B for becoming tournament champions!
+
+Documentation from the scrimmage, including the team list, qualification rankings, qualification, elimination results and other info will be uploaded to this page in a few days.&#x20;
+
+Please contact Samuel Yao (samuel.yao@student.isb.bj.edu.cn or yaoshisamuel@gmail.com) for further information inquiries about the ISB Robotics Scrimmage.
+
+### Volunteer List
+
+The HS Robotics Executive Team would like to thank all of the volunteers and team members who helped out during the event, including:
+
+* Amanda Chang - Event Partner/Supervising Teacher
+* Andrew Walton - Event Partner/Supervising Teacher
+* Cindy Wu - Scorekeeper Referee
+* Daryl Harkin - Event Partner/Supervising Teacher
+* Emily Zhou - Pit Admin/Field Reset
+* Jason Yang  - Master of Ceremonies (Emcee)
+* Jayden Guan - Scorekeeper Referee
+* Jia Lee - Pit Admin/Field Reset
+* Patrick Young - Pit Admin/TM Operator
+* Ryan Yao - Scorekeeper Referee
+* Samuel Yao - Head Referee/Volunteer Coordinator/TM Operator
+* Sophie Wang - Pit Admin/Field Reset
+* Susan Su - Event Partner/Supervising Teacher
+* William Pan - Pit Admin
+
+The Executive Team would also like to thank BCIS for providing additional field and game elements for the scrimmage, ISB Theatre staff for live stream and media setup, and Sodexo for event setup and cleanup assistance. Without everyone who has helped and assisted us, including our student volunteers, adult volunteers, school staff and community members, this even would not have been possible.&#x20;
+
+### Match Recordings
+
+Some match recordings from the tournament are uploaded here (if available):
+
+{% embed url="https://www.youtube.com/@ISB-Robotics" %}
+
+The finals matches (F1 and F2) are linked below: (Video by Mr. Walton)
+
+{% embed url="https://www.youtube.com/watch?v=_0PchUYMocY" %}
+
+{% embed url="https://www.youtube.com/watch?v=wIKB8FsX2gI&t=13s" %}
+
 ## ISB Robotics Scrimmage: December 8th, 2023 (Over Under)
 
 The ISB HS Robotics Club hosted a VRC scrimmage at the ES Theatre, with participating schools including the International School of Beijing, Beijing City International School, the Western Academy of Beijing and Boston International School (Wuxi). VRC team numbers are used whenever possible to record event information.
 
-Please contact Samuel Yao (samuel.yao@student.isb.bj.edu.cn or yaoshisamuel@gmail.com) for further information inquiries about the ISB Robotics Scrimmage.
+Congratulations to 86832C and WAB for becoming tournament champions, with 86832A and 86832D as tournament finalists!
+
+Please contact Samuel Yao (samuel.yao@student.isb.bj.edu.cn or yaoshisamuel@gmail.com) for further information inquiries about the 2023 ISB Robotics Scrimmage.
 
 ### Event Documents
 
@@ -90,12 +135,17 @@ The following team members are listed based on submitted information prior to th
 
 ISB Live has provided a live stream for the entire duration of the event here:
 
-* Stream 1: [https://www.youtube.com/live/Ors1UHW\_K2s?si=FoGUm3gWRjNrQl8i](https://www.youtube.com/live/Ors1UHW_K2s?si=FoGUm3gWRjNrQl8i)
-* Stream 2: [https://www.youtube.com/live/eiHDOP0W66Q?si=hIcjdoW6ssM2Q6\_C](https://www.youtube.com/live/eiHDOP0W66Q?si=hIcjdoW6ssM2Q6_C)
+Stream 1:
+
+{% embed url="https://www.youtube.com/live/Ors1UHW_K2s?si=FoGUm3gWRjNrQl8i" %}
+
+Stream 2:
+
+{% embed url="https://www.youtube.com/live/eiHDOP0W66Q?si=hIcjdoW6ssM2Q6_C" %}
 
 A recording of the Finals match is also available on the ISB Robotics YouTube Account:
 
-* [https://youtu.be/E8QEDA-UNx0?si=2ef3TKzA6y1An\_m3](https://youtu.be/E8QEDA-UNx0?si=2ef3TKzA6y1An_m3)
+{% embed url="https://youtu.be/E8QEDA-UNx0?si=2ef3TKzA6y1An_m3" %}
 
 ## ISB Robotics Tech Challenge: (Tower Takeover)
 
