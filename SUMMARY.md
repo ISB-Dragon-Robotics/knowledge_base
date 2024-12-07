@@ -29,42 +29,52 @@
 
 ## Documentation Repository <a href="#docs-repo" id="docs-repo"></a>
 
-* [Documentation Homepage](docs-repo/documentation-homepage/README.md)
-  * [Past Engineering Notebooks](docs-repo/documentation-homepage/past-engineering-notebooks/README.md)
-    * [VEX V5 Robotics Competition](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/README.md)
-      * [2023-2024: Over Under](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/README.md)
-        * [86832A Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832a-notebook.md)
-        * [86832B Notebook (Digital)](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832b-notebook-digital.md)
-        * [86832C Notebook (Digital)](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832c-notebook-digital.md)
-        * [86832D Notebook (Digital)](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832d-notebook-digital.md)
-      * [2022-2023: Spin Up](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/README.md)
-        * [86832A Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/86832a-notebook.md)
-        * [86832B Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/86832b-notebook.md)
-        * [86832C Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/86832c-notebook.md)
-      * [2021-2022: Tipping Point](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2021-2022-tipping-point.md)
-      * [Pre-2021 Notebooks](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/pre-2021-notebooks.md)
-    * [VEX IQ Robotics Competition](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/README.md)
-      * [2023-2024: Full Volume](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/README.md)
-        * [86832E Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832e-notebook.md)
-        * [86832F Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832f-notebook.md)
-        * [86832G Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832g-notebook.md)
-        * [86832H Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832h-notebook.md)
-  * [Robot Programs/Codes](docs-repo/documentation-homepage/robot-programs-codes.md)
-  * [ISB Scrimmage/Tournament Repository](docs-repo/documentation-homepage/isb-scrimmage-tournament-repository.md)
-  * [ISB Robotics Scouting Database (2023-2024)](docs-repo/documentation-homepage/isb-robotics-scouting-database-2023-2024.md)
-  * [APAC Robotics Documentation](docs-repo/documentation-homepage/apac-robotics-documentation.md)
-
-## Technical Documentation <a href="#tech-docs" id="tech-docs"></a>
-
-* [Tech Docs Homepage](tech-docs/tech-docs-homepage/README.md)
-  * [VEX Tournament Manager](tech-docs/tech-docs-homepage/vex-tournament-manager.md)
-  * [VEX Electronics](tech-docs/tech-docs-homepage/vex-electronics.md)
-  * [VEX Parts & Engineering](tech-docs/tech-docs-homepage/vex-parts-and-engineering.md)
-  * [VEX Design](tech-docs/tech-docs-homepage/vex-design.md)
-  * [Programming](tech-docs/tech-docs-homepage/programming/README.md)
-    * [Autonomous](tech-docs/tech-docs-homepage/programming/autonomous.md)
+* [Documentation Homepage](docs-repo/documentation-homepage.md)
+* [Past Engineering Notebooks](docs-repo/past-engineering-notebooks/README.md)
+  * [VEX V5 Robotics Competition](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/README.md)
+    * [2023-2024: Over Under](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/README.md)
+      * [86832A Notebook](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832a-notebook.md)
+      * [86832B Notebook (Digital)](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832b-notebook-digital.md)
+      * [86832C Notebook (Digital)](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832c-notebook-digital.md)
+      * [86832D Notebook (Digital)](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832d-notebook-digital.md)
+    * [2022-2023: Spin Up](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/README.md)
+      * [86832A Notebook](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/86832a-notebook.md)
+      * [86832B Notebook](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/86832b-notebook.md)
+      * [86832C Notebook](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2022-2023-spin-up/86832c-notebook.md)
+    * [2021-2022: Tipping Point](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2021-2022-tipping-point.md)
+    * [Pre-2021 Notebooks](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/pre-2021-notebooks.md)
+  * [VEX IQ Robotics Competition](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/README.md)
+    * [2023-2024: Full Volume](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/README.md)
+      * [86832E Notebook](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832e-notebook.md)
+      * [86832F Notebook](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832f-notebook.md)
+      * [86832G Notebook](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832g-notebook.md)
+      * [86832H Notebook](docs-repo/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832h-notebook.md)
+* [Robot Programs/Codes](docs-repo/robot-programs-codes.md)
+* [ISB Scrimmage/Tournament Repository](docs-repo/isb-scrimmage-tournament-repository.md)
+* [ISB Robotics Scouting Database (2023-2024)](docs-repo/isb-robotics-scouting-database-2023-2024.md)
+* [APAC Robotics Documentation](docs-repo/apac-robotics-documentation.md)
 
 ## Judging
 
-* [Judging Homepage](judging/judging-homepage/README.md)
-  * [Quick Links](judging/judging-homepage/quick-links.md)
+* [Judging Homepage](judging/judging-homepage.md)
+* [Quick Links](judging/quick-links.md)
+
+## Tournament Hosting
+
+* [Tournament Hosting Homepage](tournament-hosting/tournament-hosting-homepage.md)
+
+## VEX V5
+
+* [Documentation Homepage](vex-v5/documentation-homepage.md)
+* [Electronics](vex-v5/electronics.md)
+* [Parts & Engineering](vex-v5/parts-and-engineering.md)
+* [Design](vex-v5/design.md)
+* [Programming](vex-v5/programming.md)
+
+## VEX IQ
+
+* [Documentation Homepage](vex-iq/documentation-homepage.md)
+
+## Judging
+
+* [Documentation Homepage](judging-1/documentation-homepage.md)
