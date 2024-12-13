@@ -12,9 +12,11 @@ The ISB HS Robotics Club hosted a VRC scrimmage as the ISB ES Theatre, with part
 
 Congratulations to 86832A and 86832B for becoming tournament champions!
 
-Documentation from the scrimmage, including the team list, qualification rankings, qualification, elimination results and other info will be uploaded to this page in a few days.&#x20;
-
 Please contact Samuel Yao (samuel.yao@student.isb.bj.edu.cn or yaoshisamuel@gmail.com) for further information inquiries about the ISB Robotics Scrimmage.
+
+### Event Documents
+
+TBC
 
 ### Volunteer List
 
@@ -43,13 +45,15 @@ Some match recordings from the tournament are uploaded here (if available):
 
 {% embed url="https://www.youtube.com/@ISB-Robotics" %}
 
-The finals matches (F1 and F2) are linked below: (Video by Mr. Walton)
+The final matches (F1 and F2) are linked below: (Videos by Mr. Walton)
 
 {% embed url="https://www.youtube.com/watch?v=_0PchUYMocY" %}
 
 {% embed url="https://www.youtube.com/watch?v=wIKB8FsX2gI&t=13s" %}
 
 ## ISB Robotics Scrimmage: December 8th, 2023 (Over Under)
+
+<figure><img src="../../.gitbook/assets/20231209_071749735_iOS copy.png" alt=""><figcaption><p>ISB Robotics Scrimmage 2023 Group Photo</p></figcaption></figure>
 
 The ISB HS Robotics Club hosted a VRC scrimmage at the ES Theatre, with participating schools including the International School of Beijing, Beijing City International School, the Western Academy of Beijing and Boston International School (Wuxi). VRC team numbers are used whenever possible to record event information.
 
