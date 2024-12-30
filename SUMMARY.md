@@ -51,7 +51,7 @@
       * [86832H Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832h-notebook.md)
 * [Robot Programs/Codes](docs-repo/documentation-homepage/robot-programs-codes.md)
 * [ISB Scrimmage/Tournament Repository](docs-repo/documentation-homepage/isb-scrimmage-tournament-repository.md)
-* [ISB Robotics Scouting Database (2023-2024)](docs-repo/documentation-homepage/isb-robotics-scouting-database-2023-2024.md)
+* [ISB Robotics Scouting Database](docs-repo/isb-robotics-scouting-database.md)
 * [APAC Robotics Documentation](docs-repo/documentation-homepage/apac-robotics-documentation.md)
 
 ## Judging

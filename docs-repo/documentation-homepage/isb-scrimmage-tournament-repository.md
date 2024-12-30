@@ -1,5 +1,5 @@
 ---
-description: Documentation repository of past ISB Scrimmages
+description: Page by Samuel Yao (ISB)
 cover: ../../.gitbook/assets/7868DC9F-A6CF-4AC7-AA3E-4E8E59625A2A 2.JPG
 coverY: 0
 ---

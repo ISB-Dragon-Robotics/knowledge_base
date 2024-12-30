@@ -1,5 +1,5 @@
 ---
-description: Record of APAC Robotics Tournament documentation from past tournaments
+description: Page by Samuel Yao (ISB)
 cover: ../../.gitbook/assets/IMG_3042.jpeg
 coverY: 0
 ---
