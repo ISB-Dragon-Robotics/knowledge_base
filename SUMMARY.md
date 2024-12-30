@@ -80,7 +80,8 @@
 * [Documentation Homepage](vex-v5/documentation-homepage.md)
 * [Electronics](vex-v5/electronics.md)
 * [Parts & Engineering](vex-v5/parts-and-engineering.md)
-* [Design](vex-v5/design.md)
+* [Design](vex-v5/design/README.md)
+  * [Fusion 360](vex-v5/design/fusion-360.md)
 * [Programming](vex-v5/programming.md)
 
 ## VEX IQ

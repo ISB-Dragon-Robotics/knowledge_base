@@ -1,5 +1,5 @@
 ---
-description: Asia-Pacific Activities Conference Robotics
+description: Page by Samuel Yao (ISB)
 cover: ../../.gitbook/assets/IMG_0118.jpg
 coverY: 0
 ---
@@ -10,19 +10,24 @@ The Asia-Pacific Activities Conference is an athletics and activities associatio
 
 The first APAC Robotics tournament was hosted by the Shanghai American School Puxi in January of 2024, one of the largest international school robotics tournaments ever hosted for VEX competitions in China. Although the event was not officially sanctioned by the Robotics Education & Competition Foundation (RECF), the governing body of the VEX Robotics Competitions, it still involved participation from thirteen APAC and non-APAC international schools with a total of 42 teams:
 
-* American International School of Guangzhou (APAC Member)
+* American International School of Guangzhou (APAC School)
 * Shanghai Singapore International School
 * British International School Shanghai
-* Concordia International School Shanghai (APAC Member)
+* Concordia International School Shanghai (APAC School)
 * Dulwich College Shanghai Pudong
 * Hangzhou International School
-* Hong Kong International School (APAC Member)
-* International School of Beijing (APAC Member)
+* Hong Kong International School (APAC School)
+* International School of Beijing (APAC School)
 * Nanjing International School
-* Shanghai American School Pudong (APAC Member)
-* Shanghai American School Puxi (APAC Member)
-* Western Academy of Beijing (APAC Member)
+* Shanghai American School Pudong (APAC School)
+* Shanghai American School Puxi (APAC School)
+* Western Academy of Beijing (APAC School)
 * Wellington College International Shanghai
+
+Subsequent APAC Tournaments have also included the following schools:
+
+* Seoul Foreign School (APAC School)
+* Yew Chung International School of Shanghai
 
 For more information about the historical documentation of past APAC Robotics tournaments please click [here](../../docs-repo/documentation-homepage/apac-robotics-documentation.md).
 

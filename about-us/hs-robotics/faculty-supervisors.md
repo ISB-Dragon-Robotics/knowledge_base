@@ -1,10 +1,10 @@
 ---
-description: >-
-  The Faculty Supervisors of the ISB HS Robotics Club oversee the administration
-  and operations of the HS Robotics Club.
+description: Page by Samuel Yao (ISB)
 ---
 
-# Faculty Supervisors (HS)
+# Faculty Supervisors
+
+The Faculty Supervisors/Coaches of the ISB HS Robotics Club oversee the administration and operations of the HS Robotics Club.
 
 ## 2024-2025 Faculty Advisors
 
@@ -13,6 +13,7 @@ For the 2024-2025 school year, the Faculty Advisors of the ISB HS Robotics Club 
 * Amanda Chang - HS Physics & Science Teacher
 * Daryl Harkin - HS Computer Science Teacher
 * Susan Su - EdTech Teaching Assistant, ISB Design Staff
+* Piotr Firlus - MS/HS Design Technician
 
 ## Past Faculty Advisors
 

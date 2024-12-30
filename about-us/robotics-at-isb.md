@@ -1,4 +1,5 @@
 ---
+description: Page by Samuel Yao (ISB)
 cover: ../.gitbook/assets/IMG_783612 (1).jpg
 coverY: 0
 ---

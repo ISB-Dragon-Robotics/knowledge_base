@@ -1,5 +1,4 @@
 ---
-description: Welcome to the ISB Robotics Knowledge Base!
 cover: .gitbook/assets/707A9823-Enhanced-NR.jpg
 coverY: -276
 layout:

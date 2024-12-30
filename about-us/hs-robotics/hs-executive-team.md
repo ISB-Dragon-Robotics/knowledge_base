@@ -1,10 +1,10 @@
 ---
-description: >-
-  The ISB High School Robotics Executive Team, referred to commonly as the
-  "Execs" are the student officers of the ISB HS Robotics Club.
+description: Page by Samuel Yao (ISB)
 ---
 
 # HS Executive Team
+
+The ISB High School Robotics Executive Team, referred to commonly as the "Execs" are the student officers of the ISB HS Robotics Club.
 
 ## Roles in the HS Executive Team
 
@@ -31,7 +31,7 @@ The HS Executive Team for the 2024-2025 school year are:
 * Lead Designer: George Xu&#x20;
 * Lead Programmer: Leon Zhu&#x20;
 * Lead Engineer: William Pan&#x20;
-* MS Robotics Coordinator: Samuel Yao & Ryan Quon&#x20;
+* MS Robotics Coordinator: Samuel Yao
 * _Public Relations/Communications Exec. (Vacant)_
 
 ## Past HS Executive Team Members

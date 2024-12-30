@@ -1,10 +1,10 @@
 ---
-description: >-
-  The MS Faculty Supervisors oversee the operations and conduct of all MS
-  Robotics teams.
+description: Page by Samuel Yao (ISB)
 ---
 
-# Faculty Supervisors (MS)
+# Faculty Supervisors
+
+The MS Faculty Supervisors oversee the operations and conduct of all MS Robotics teams.
 
 ## 2024-2025 Faculty Supervisors
 
