@@ -1,4 +1,5 @@
 ---
+description: Welcome to the ISB Robotics Knowledge Base!
 cover: .gitbook/assets/707A9823-Enhanced-NR.jpg
 coverY: -276
 layout:
@@ -19,7 +20,7 @@ layout:
 
 # 🏠 Main Page
 
-Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school robotics community in China.&#x20;
+Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school robotics community in China, as well as compiling and sharing robotics knowledge with all VEX robot enthusiasts and community stakeholders.
 
 ## Navigation
 
@@ -27,7 +28,7 @@ Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the h
 
 <details>
 
-<summary>How to use it?</summary>
+<summary>How to use this website?</summary>
 
 Use the menu above or the side menu to navigate between pages!&#x20;
 
@@ -39,7 +40,7 @@ Use the menu above or the side menu to navigate between pages!&#x20;
 
 ISB Robotics members with existing access to the GitBook may submit pull requests and merge changes directly. If you are an ISB Robotics member but do not have access to the GitBook contributor panel, please contact one of the club executives or follow the guidelines below for non-members.
 
-Other users who wish to submit changes/updates may email the current Club President (samuel.yao@student.isb.edu.cn) or Lead Designer (george.xu@student.isb.bj.edu.cn) for submission requests. In requests, please submit the following information:
+Other users who wish to submit changes/updates without submitting a pull request on GitHub may email the current Club President (samuel.yao@student.isb.edu.cn) or Lead Designer (george.xu@student.isb.bj.edu.cn) for submission requests. In requests, please submit the following information:
 
 * Contributor name/username
 * Organization/school (if applicable)
@@ -53,6 +54,10 @@ Other users who wish to submit changes/updates may email the current Club Presid
 
 * Samuel Yao (Founder)
 * William Pan
-* Silas Brock
+* Jun Lee (VEXU Team ILLINI)
+* Silas Brock&#x20;
+* Leon Zhu
 
 ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki, IIWII Robotics Wiki and the RECF for the inspiration of this knowledge base.
+
+ISB Robotics would also like to thank GitBook for providing a Community plan/license to support the creation of this Knowledge Base in documenting competitive robotics within the International School community in China and sharing robotics knowledge with a larger audience.
