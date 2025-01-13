@@ -83,7 +83,7 @@
 * [Design](vex-v5/design/README.md)
   * [Fusion 360](vex-v5/design/fusion-360.md)
 * [Programming](vex-v5/programming/README.md)
-  * [Robot movement theory](vex-v5/programming/robot-movement-theory.md)
+  * [Robot Movement Theory](vex-v5/programming/robot-movement-theory.md)
 
 ## VEX IQ
 
