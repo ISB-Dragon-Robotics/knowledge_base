@@ -81,7 +81,7 @@
 * [Electronics](vex-v5/electronics.md)
 * [Parts & Engineering](vex-v5/parts-and-engineering.md)
 * [Design](vex-v5/design/README.md)
-  * [Fusion 360](vex-v5/design/fusion-360.md)
+  * [Fusion 360 for V5RC Intro](vex-v5/design/fusion-360.md)
 * [Programming](vex-v5/programming/README.md)
   * [Robot Movement Theory](vex-v5/programming/robot-movement-theory.md)
 
