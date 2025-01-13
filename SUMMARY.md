@@ -50,7 +50,10 @@
       * [86832G Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832g-notebook.md)
       * [86832H Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-iq-robotics-competition/2023-2024-full-volume/86832h-notebook.md)
 * [Robot Programs/Codes](docs-repo/documentation-homepage/robot-programs-codes.md)
-* [ISB Scrimmage/Tournament Repository](docs-repo/documentation-homepage/isb-scrimmage-tournament-repository.md)
+* [ISB Scrimmage/Tournament Repository](docs-repo/isb-scrimmage-tournament-repository/README.md)
+  * [High Stakes (12/7/2024)](docs-repo/isb-scrimmage-tournament-repository/high-stakes-12-7-2024.md)
+  * [Over Under (12/8/2023)](docs-repo/isb-scrimmage-tournament-repository/over-under-12-8-2023.md)
+  * [Tower Takeover](docs-repo/isb-scrimmage-tournament-repository/tower-takeover.md)
 * [ISB Robotics Scouting Database](docs-repo/isb-robotics-scouting-database.md)
 * [APAC Robotics Documentation](docs-repo/documentation-homepage/apac-robotics-documentation.md)
 
