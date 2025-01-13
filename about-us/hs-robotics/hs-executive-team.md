@@ -38,38 +38,63 @@ The HS Executive Team for the 2024-2025 school year are:
 
 The ISB Robotics Club would like to acknowledge the contributions of previous HS Executive Teams throughout the history of the ISB HS Robotics Club, including:
 
-| 2023-2024                    | 2022-2023                       | 2021-2022     |
-| ---------------------------- | ------------------------------- | ------------- |
-| Silas Brock (Co-President)   | Silas Brock (Co-President)      | Derek Huang   |
-| Myungjun Lee (Co-President)  | Myungjun Lee (Co-President)     | Haozhe Liu    |
-| Ryan Quon (Secretary)        | Ryan Quon (Secretary)           | Justin Jeon   |
-| Taylor Kim (Lead Programmer) | Sofia Poulsen (Lead Programmer) | SeongJun Choi |
-| Samuel Yao (Lead Engineer)   | Haozhe Liu (Lead Engineer)      | Silas Brock   |
-|                              |                                 | Titus Brock   |
+### 2024-2025
 
+* Samuel Yao (President, MS Robotics Coordinator)
+* Ryan Quon (Vice President)
+* Bowen Ke (Secretary)
+* George Xu (Lead Designer)
+* Leon Zhu (Lead Programmer)
+* William Pan (Lead Engineer, MS Robotics Coordinator)
 
+### 2023-2024
 
-| 2020-2021                     | 2019-2020       | 2018-2019 |
-| ----------------------------- | --------------- | --------- |
-| Danny Murray (Co-President)   | Aiki De Peralta |           |
-| Haozhe Liu (Co-President)     | Arthur Wang     |           |
-| Jay Cho (Secretary)           | Victor Ren      |           |
-| Justin Jeon (Lead Programmer) | Austin Zeng     |           |
-| Eric Xie (Lead Engineer)      | Hannah Lu       |           |
-|                               | Vanessa Quon    |           |
+* Silas Brock (Co-President)
+* Myungjun (Jun) Lee (Co-President)
+* Ryan Quon (Secretary)
+* Taylor Kim (Lead Programmer)
+* Samuel Yao (Lead Engineer)
 
-| 2017-2018 | 2016-2017 | 2015-2016 |
-| --------- | --------- | --------- |
-|           |           |           |
-|           |           |           |
-|           |           |           |
+### 2022-2023
 
-| 2014-2015\*                  | 2013-2014 |
-| ---------------------------- | --------- |
-| Chris Wong (Co-President)    |           |
-| Note Geerdes (Co-President)  |           |
-| Jonathan Li (Chief Engineer) |           |
-| Saksham Bausal (Secretary)   |           |
-| Tim Park (Public Relations)  |           |
+* Silas Brock (Co-President)
+* Myungjun (Jun) Lee (Co-President)
+* Ryan Quon (Secretary)
+* Sofia Poulsen (Lead Programmer)
+* Haozhe Liu (Lead Engineer)
 
-\*Information is obtained from secondary sources due to the loss of historical club documentation. Blank columns indicate that information regarding executive leadership for the given school year is currently unavailable.&#x20;
+### 2021-2022
+
+* Derek Huang
+* Haozhe Liu
+* Justin Jeon
+* Seongjun Choi
+* Silas Brock
+* Titus Brock
+
+### 2020-2021
+
+* Danny Murray (Co-President)
+* Haozhe Liu (Co-President)
+* Jay Cho (Secretary)
+* Justin Jeon (Lead Programmer)
+* Eric Xie (Lead Engineer)
+
+### 2019-2020
+
+* Aiki De Peralta
+* Arthur Wang
+* Victor Ren
+* Austin Zeng
+* Hannah Lu
+* Vanessa Quon
+
+### 2014-2015
+
+* Chris Wong (Co-President)
+* Note Geerdes (Co-President)
+* Jonathan Li (Chief Engineer)
+* Saksham Bausal (Secretary)
+* Tim Park (Public Relations)
+
+Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented.&#x20;
