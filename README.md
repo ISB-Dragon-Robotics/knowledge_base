@@ -57,6 +57,7 @@ Other users who wish to submit changes/updates without submitting a pull request
 * Jun Lee (VEXU Team ILLINI)
 * Silas Brock&#x20;
 * Leon Zhu
+* George Xu
 
 ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki, IIWII Robotics Wiki and the RECF for the inspiration of this knowledge base.
 
