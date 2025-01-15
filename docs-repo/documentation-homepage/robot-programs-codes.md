@@ -1,10 +1,10 @@
 ---
-description: Page by George Xu
+description: Page by George Xu (ISB) and Samuel Yao (ISB)
 ---
 
 # Robot Programs/Codes
 
-The following pages will discuss useful programs for robots. As of now, the public release of complete scripts has not been considered. Small snippets to introduce relevant concepts will be provided, however. Copiable chunks of texts or preambles, such as those used for the VEX Robotics Competition program format, will be provided for use.
+A few sections in this Wiki will discuss useful programs for robots. As of now, the public release of complete scripts has not been considered. Small snippets to introduce relevant concepts will be provided, however. Copiable chunks of texts or preambles, such as those used for the VEX Robotics Competition program format, will be provided for use.
 
 For those interested in complete scripts, the policy is separate for internal and external VEX participants, listed as such:
 
