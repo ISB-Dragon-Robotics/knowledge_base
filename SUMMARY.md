@@ -24,6 +24,7 @@
   * [ISB Robotics Scrimmage](about-us/programs-and-initiatives/isb-robotics-scrimmage.md)
   * [Student Mentorship](about-us/programs-and-initiatives/student-mentorship.md)
   * [APAC Robotics](about-us/programs-and-initiatives/apac-robotics.md)
+  * [ACAMIS Robotics](about-us/programs-and-initiatives/acamis-robotics.md)
   * [VEX V5 Robotics Competition](about-us/programs-and-initiatives/vex-v5-robotics-competition.md)
   * [VEX IQ Robotics Competition](about-us/programs-and-initiatives/vex-iq-robotics-competition.md)
 
