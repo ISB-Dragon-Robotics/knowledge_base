@@ -18,7 +18,7 @@ The former logo for the ISB Robotics Club was adopted around 2019 and designed b
 
 Although most students primarily stay within one of the four teams, teams are flexible and may switch teams between competition seasons under the guidance of club advisors and the executive team. When such information is available, the current and past members of each team are listed on the respective team pages of the site.
 
-Before the creation of the ISB MS/HS Design Center, the HS Robotics Club was hosted in an EdTech classroom opposite the HS Office. In the 2020-2021 school year, after the construction of the design center, HS Robotics took place in the dedicated robotics area near the rear of the design center adjacent to design center offices, art classrooms and the computer science classroom.
+Before the creation of the ISB MS/HS Design Center, the HS Robotics Club was hosted in an EdTech classroom opposite the HS Office (now known as the "Dragon's Den"). In the 2020-2021 school year, after the construction of the design center, HS Robotics took place in the dedicated robotics area near the rear of the design center adjacent to design center offices, art classrooms and the computer science classroom.&#x20;
 
 At the start of the 2024-2025 V5RC High Stakes, season, there are \~50 members within ISB High School Robotics, making the club one of the largest and oldest student clubs in the High School of the International School of Beijing. There are also \~20 students in the ISB Middle School Robotics Teams.
 
