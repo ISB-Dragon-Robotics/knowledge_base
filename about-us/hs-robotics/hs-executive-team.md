@@ -19,7 +19,7 @@ As of 2024, the HS Executive Team consists of 8 _de jure_ positions with some le
 * MS Robotics Coordinator: Leads the [Student Mentorship Program](../programs-and-initiatives/student-mentorship.md).
 * _Public Relations/Communications Exec.: Manages club social media and communicates with community stakeholders & other teams._
 
-The respective powers and responsibilities of each executive in the team are outlined in the ISB Robotics Club Constitution. In on-season, executives are typically focused on their individual teams. During offseason, currently defined as after between the end of the last competition of the academic year and the release of new game instructions, executives focus more on education and management roles.
+The respective powers and responsibilities of each executive in the team are outlined in the ISB Robotics Club Constitution. Within the competition season, executives are typically focused on their individual teams. During the off-season, currently defined as after between the end of the last competition of the academic year and the release of new game instructions, executives focus more on education and management roles.
 
 ## 2024-2025 HS Executive Team
 
@@ -97,4 +97,4 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Saksham Bausal (Secretary)
 * Tim Park (Public Relations)
 
-Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented.&#x20;
+Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented or documented.

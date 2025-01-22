@@ -14,12 +14,14 @@ The student mentorship program was founded in the 2023-2024 VIQRC season with fo
 
 The following are the HS Student Mentors for the 2024-2025 VIQRC season:&#x20;
 
-| 2024-2025   |
-| ----------- |
-| Ryan Quon   |
-| William Pan |
-| Samuel Yao  |
-| Minghon Li  |
+| 2024-2025                   |
+| --------------------------- |
+| Ryan Quon                   |
+| William Pan                 |
+| Samuel Yao                  |
+| Minghon Li                  |
+| Patrick Young _(Part-time)_ |
+| Emily Zhou _(Part-time)_    |
 
 ## Former HS Student Mentors
 

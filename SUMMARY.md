@@ -10,7 +10,7 @@
   * [History](about-us/hs-robotics/history.md)
   * [HS Executive Team](about-us/hs-robotics/hs-executive-team.md)
   * [86832A](about-us/hs-robotics/86832a.md)
-  * [86832B](about-us/hs-robotics/86832b.md)
+  * [Robust (86832B)](about-us/hs-robotics/86832b.md)
   * [86832C](about-us/hs-robotics/86832c.md)
   * [86832D](about-us/hs-robotics/86832d.md)
 * [MS Robotics](about-us/ms-robotics/README.md)
