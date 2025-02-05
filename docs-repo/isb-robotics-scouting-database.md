@@ -10,6 +10,16 @@ The ISB Robotics Scouting Database is created in 2024 to allow for (rough) stati
 
 When possible, information is taken from official sources such as Robotevents.com. Sometimes, match information can only be found via semi-official and unofficial sources, such as from Tournament Manager exports from the event organizer.&#x20;
 
+## 2024-2025: High Stakes
+
+### Spreadsheet:
+
+The spreadsheet is a work in progress and not publicly available currently. Please email samuel.yao@student.isb.bj.edu.cn to request access.
+
+### Release Notes:&#x20;
+
+Statistics from the ACAMIS North Regional and the Concordia Robotics Challenge have been recorded. There is not sufficient match information to record match statistics for the APAC Tournament in November, but the calculations necessary for the ISB Robotics Scrimmage are still in progress.&#x20;
+
 ## 2023-2024: Over Under
 
 ### Spreadsheet: (June 5th Version)
