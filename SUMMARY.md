@@ -54,7 +54,7 @@
 * [ISB Scrimmage/Tournament Repository](docs-repo/isb-scrimmage-tournament-repository/README.md)
   * [High Stakes (12/7/2024)](docs-repo/isb-scrimmage-tournament-repository/high-stakes-12-7-2024.md)
   * [Over Under (12/8/2023)](docs-repo/isb-scrimmage-tournament-repository/over-under-12-8-2023.md)
-  * [Tower Takeover](docs-repo/isb-scrimmage-tournament-repository/tower-takeover.md)
+  * [Tower Takeover (2019-2020)](docs-repo/isb-scrimmage-tournament-repository/tower-takeover-2019-2020.md)
 * [ISB Robotics Scouting Database](docs-repo/isb-robotics-scouting-database.md)
 * [APAC Robotics Documentation](docs-repo/documentation-homepage/apac-robotics-documentation.md)
 
