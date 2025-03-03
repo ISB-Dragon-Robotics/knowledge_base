@@ -61,23 +61,36 @@
 ## Judging
 
 * [Documentation Homepage](judging/documentation-homepage.md)
+* [Judge Interviews](judging/judge-interviews.md)
+* [Notebooking & Documentation](judging/notebooking-and-documentation.md)
+* [Design Process/Cycle](judging/design-process-cycle/README.md)
+  * [ISB Design Cycle in V5RC/VIQRC](judging/design-process-cycle/isb-design-cycle-in-v5rc-viqrc.md)
+* [Judged Awards & the Guide to Judging](judging/judged-awards-and-the-guide-to-judging.md)
 * [Best Practices](judging/best-practices.md)
 * [Quick Links](judging/judging-homepage/quick-links.md)
 
-## Tournament Hosting
+## Tournaments
 
-* [Tournament Hosting Homepage](tournament-hosting/tournament-hosting-homepage.md)
-* [Volunteer Roles](tournament-hosting/volunteer-roles.md)
-* [Refereeing](tournament-hosting/refereeing/README.md)
-  * [Head Referee](tournament-hosting/refereeing/head-referee.md)
-  * [Scorekeeper Referee](tournament-hosting/refereeing/scorekeeper-referee.md)
-* [Equipment](tournament-hosting/equipment.md)
-* [Streaming & Video](tournament-hosting/streaming-and-video.md)
-* [VEX Tournament Manager](tournament-hosting/vex-tournament-manager/README.md)
-  * [Event Setup](tournament-hosting/vex-tournament-manager/event-setup.md)
-  * [Displays](tournament-hosting/vex-tournament-manager/displays.md)
-  * [Best Practices](tournament-hosting/vex-tournament-manager/best-practices.md)
-  * [Resources](tournament-hosting/vex-tournament-manager/resources.md)
+* [Tournaments Homepage](tournaments/tournament-hosting-homepage.md)
+* [Volunteer Roles](tournaments/volunteer-roles.md)
+* [Refereeing](tournaments/refereeing/README.md)
+  * [Head Referee](tournaments/refereeing/head-referee.md)
+  * [Scorekeeper Referee](tournaments/refereeing/scorekeeper-referee.md)
+* [Equipment](tournaments/equipment.md)
+* [Streaming & Video](tournaments/streaming-and-video.md)
+* [VEX Tournament Manager](tournaments/vex-tournament-manager/README.md)
+  * [Event Setup](tournaments/vex-tournament-manager/event-setup.md)
+  * [Displays](tournaments/vex-tournament-manager/displays.md)
+  * [Best Practices](tournaments/vex-tournament-manager/best-practices.md)
+  * [Resources](tournaments/vex-tournament-manager/resources.md)
+
+***
+
+* [VEX Tournament Structure (V5/IQ)](vex-tournament-structure-v5-iq.md)
+* [Scouting](scouting/README.md)
+  * [Alliance Selection](scouting/alliance-selection.md)
+  * [Apps & Tools](scouting/apps-and-tools.md)
+  * [Match Statistics & Predictions](scouting/match-statistics-and-predictions.md)
 
 ## VEX V5
 
