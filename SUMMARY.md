@@ -61,8 +61,9 @@
 ## Judging
 
 * [Documentation Homepage](judging/documentation-homepage.md)
-* [Judge Interviews](judging/judge-interviews.md)
+* [V5RC/VIQRC Judging Process](judging/v5rc-viqrc-judging-process.md)
 * [Notebooking & Documentation](judging/notebooking-and-documentation.md)
+* [Judge Interviews](judging/judge-interviews.md)
 * [Design Process/Cycle](judging/design-process-cycle/README.md)
   * [ISB Design Cycle in V5RC/VIQRC](judging/design-process-cycle/isb-design-cycle-in-v5rc-viqrc.md)
 * [Judged Awards & the Guide to Judging](judging/judged-awards-and-the-guide-to-judging.md)
