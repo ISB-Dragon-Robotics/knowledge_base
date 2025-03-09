@@ -106,3 +106,4 @@
 ## VEX IQ
 
 * [Documentation Homepage](vex-iq/documentation-homepage.md)
+* [Quick Links](vex-iq/quick-links.md)

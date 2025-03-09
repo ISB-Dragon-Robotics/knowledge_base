@@ -40,7 +40,7 @@ Use the menu above or the side menu to navigate between pages!&#x20;
 
 ISB Robotics members with existing access to the GitBook may submit pull requests and merge changes directly. If you are an ISB Robotics member but do not have access to the GitBook contributor panel, please contact one of the club executives or follow the guidelines below for non-members.
 
-Other users who wish to submit changes/updates without submitting a pull request on GitHub may email the current Club President (samuel.yao@student.isb.edu.cn) or Lead Designer (george.xu@student.isb.bj.edu.cn) for submission requests. In requests, please submit the following information:
+Other users who wish to submit changes/updates without submitting a pull request on GitHub may email the current Club President (yaoshisamuel@gmail.com) for submission requests. In requests, please submit the following information:
 
 * Contributor name/username
 * Organization/school (if applicable)
