@@ -8,4 +8,6 @@ ISB MS Robotics was founded as an after-school activity (ASA) for Middle School 
 
 At the start of the 2023-2024 school season, the MS teams restarted under the purview of Ms. Kim Tresohlavy and Mr. Jesús García Jordà, switching to the VEX IQ system and participating in the VEX IQ Robotics Competition. In the first year of competition, four teams representing ISB MS Robotics participated in the IQ Robotics Tournament for international schools hosted by the Wuhan Yangtze International School (WYIS), with team 86832E winning the Design Award in the first year of participation.&#x20;
 
+86832E, in the 2024-2025 Rapid Relay season, also won the first award banner for the International School of Beijing by winning the Innovate Award at the ACAMIS National Championship in 2025, on top of 86832G winning three awards in one tournament (Think, Skills 2nd Place & Teamwork 3rd Place).
+
 As of the 2024-2025 season, ISB MS Robotics now has 5 teams, (86832E, 86832F, 86832G, 86832H, 86832I) competing in VIQRC Rapid Relay.

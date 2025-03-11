@@ -14,26 +14,32 @@ The student mentorship program was founded in the 2023-2024 VIQRC season with fo
 
 The following are the HS Student Mentors for the 2024-2025 VIQRC season:&#x20;
 
-| 2024-2025                   |
-| --------------------------- |
-| Ryan Quon                   |
-| William Pan                 |
-| Samuel Yao                  |
-| Minghon Li                  |
-| Patrick Young _(Part-time)_ |
-| Emily Zhou _(Part-time)_    |
+### 2024-2025
+
+* William Pan
+* Samuel Yao (MS Coordinator)
+* Minghon Li&#x20;
+* Patrick Young (Part-time, Semester 2)
+* Emily Zhou (Part-time)
 
 ## Former HS Student Mentors
 
 ISB Robotics would like to acknowledge the contributions of our former HS Student Mentors, including:
 
-| 2023-2024                     |
-| ----------------------------- |
-| George Xu                     |
-| Jeff Kwak                     |
-| Lucas Duan                    |
-| Ryan Quon                     |
-| Samuel Yao _(MS Coordinator)_ |
-| Willam Pan _(Semester 2)_     |
-| Myungjung Lee _(Temporary)_   |
+### 2024-2025
 
+* William Pan
+* Samuel Yao (MS Coordinator)
+* Minghon Li&#x20;
+* Patrick Young (Part-time, Semester 2)
+* Emily Zhou (Part-time)
+
+### 2023-2024
+
+* George Xu
+* Jeff Kwak
+* Lucas Duan
+* Ryan Quon
+* Samuel Yao (MS Coordinator)
+* William Pan (Semester 2)
+* Myungjun Lee (Temporary)&#x20;
