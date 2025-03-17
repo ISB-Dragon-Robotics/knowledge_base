@@ -73,6 +73,11 @@
 ## Tournaments
 
 * [Tournaments Homepage](tournaments/tournament-hosting-homepage.md)
+* [VEX Tournament Structure (V5/IQ)](tournaments/vex-tournament-structure-v5-iq.md)
+* [Scouting](tournaments/scouting/README.md)
+  * [Alliance Selection (V5RC)](tournaments/scouting/alliance-selection-v5rc.md)
+  * [Apps & Tools](tournaments/scouting/apps-and-tools.md)
+  * [Match Statistics & Predictions](tournaments/scouting/match-statistics-and-predictions.md)
 * [Volunteer Roles](tournaments/volunteer-roles.md)
 * [Refereeing](tournaments/refereeing/README.md)
   * [Head Referee](tournaments/refereeing/head-referee.md)
@@ -84,14 +89,6 @@
   * [Displays](tournaments/vex-tournament-manager/displays.md)
   * [Best Practices](tournaments/vex-tournament-manager/best-practices.md)
   * [Resources](tournaments/vex-tournament-manager/resources.md)
-
-***
-
-* [VEX Tournament Structure (V5/IQ)](vex-tournament-structure-v5-iq.md)
-* [Scouting](scouting/README.md)
-  * [Alliance Selection](scouting/alliance-selection.md)
-  * [Apps & Tools](scouting/apps-and-tools.md)
-  * [Match Statistics & Predictions](scouting/match-statistics-and-predictions.md)
 
 ## VEX V5
 

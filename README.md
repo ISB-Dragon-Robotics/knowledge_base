@@ -59,6 +59,6 @@ Other users who wish to submit changes/updates without submitting a pull request
 * Leon Zhu
 * George Xu
 
-ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki, IIWII Robotics Wiki and the RECF for the inspiration of this knowledge base.
+ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki, IIWII Robotics Wiki, the RECF Library and the VEX Library for the inspiration of this knowledge base.
 
-ISB Robotics would also like to thank GitBook for providing a Community plan/license to support the creation of this Knowledge Base in documenting competitive robotics within the International School community in China and sharing robotics knowledge with a larger audience.
+ISB Robotics would also like to thank GitBook for providing a community plan/license to support the creation of this Knowledge Base in documenting competitive robotics within the International School community in China and sharing robotics knowledge with a larger audience.
