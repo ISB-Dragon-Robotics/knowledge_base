@@ -1,13 +1,12 @@
 # Table of contents
 
 * [🏠 Main Page](README.md)
-* [Acronyms & Glossary](acronyms-and-glossary.md)
 
 ## About Us
 
 * [Robotics at ISB](about-us/robotics-at-isb.md)
 * [HS Robotics](about-us/hs-robotics/README.md)
-  * [Faculty Supervisors](about-us/hs-robotics/faculty-supervisors.md)
+  * [Club Advisors/Coaches](about-us/hs-robotics/faculty-supervisors.md)
   * [History](about-us/hs-robotics/history.md)
   * [HS Executive Team](about-us/hs-robotics/hs-executive-team.md)
   * [86832A](about-us/hs-robotics/86832a.md)
@@ -15,7 +14,7 @@
   * [86832C](about-us/hs-robotics/86832c.md)
   * [86832D](about-us/hs-robotics/86832d.md)
 * [MS Robotics](about-us/ms-robotics/README.md)
-  * [Faculty Supervisors](about-us/ms-robotics/faculty-supervisors.md)
+  * [Coaches/Supervisors](about-us/ms-robotics/faculty-supervisors.md)
   * [History](about-us/ms-robotics/history.md)
   * [86832E](about-us/ms-robotics/86832e.md)
   * [86832F](about-us/ms-robotics/86832f.md)
@@ -61,7 +60,7 @@
 
 ## Judging
 
-* [Documentation Homepage](judging/documentation-homepage.md)
+* [Judging Homepage](judging/documentation-homepage.md)
 * [V5RC/VIQRC Judging Process](judging/v5rc-viqrc-judging-process.md)
 * [Notebooking & Documentation](judging/notebooking-and-documentation.md)
 * [Judge Interviews](judging/judge-interviews.md)
@@ -69,7 +68,7 @@
   * [ISB Design Cycle in V5RC/VIQRC](judging/design-process-cycle/isb-design-cycle-in-v5rc-viqrc.md)
 * [Judged Awards & the Guide to Judging](judging/judged-awards-and-the-guide-to-judging.md)
 * [Best Practices](judging/best-practices.md)
-* [Quick Links](judging/judging-homepage/quick-links.md)
+* [Judging Quick Links](judging/judging-homepage/quick-links.md)
 
 ## Tournaments
 
@@ -97,15 +96,16 @@
 
 ## VEX V5
 
-* [Documentation Homepage](vex-v5/documentation-homepage.md)
+* [V5 Documentation Homepage](vex-v5/documentation-homepage.md)
 * [Electronics](vex-v5/electronics.md)
 * [Parts & Engineering](vex-v5/parts-and-engineering.md)
 * [Design](vex-v5/design/README.md)
   * [Fusion 360 for V5RC Intro](vex-v5/design/fusion-360.md)
 * [Programming](vex-v5/programming/README.md)
   * [Robot Movement Theory](vex-v5/programming/robot-movement-theory.md)
+* [V5 Quick Links](vex-v5/v5-quick-links.md)
 
 ## VEX IQ
 
-* [Documentation Homepage](vex-iq/documentation-homepage.md)
-* [Quick Links](vex-iq/quick-links.md)
+* [IQ Documentation Homepage](vex-iq/documentation-homepage.md)
+* [IQ Quick Links](vex-iq/iq-quick-links.md)
