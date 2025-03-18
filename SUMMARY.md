@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Main Page](README.md)
+* [Acronyms & Glossary](acronyms-and-glossary.md)
 
 ## About Us
 
@@ -74,21 +75,25 @@
 
 * [Tournaments Homepage](tournaments/tournament-hosting-homepage.md)
 * [VEX Tournament Structure (V5/IQ)](tournaments/vex-tournament-structure-v5-iq.md)
-* [Scouting](tournaments/scouting/README.md)
-  * [Alliance Selection (V5RC)](tournaments/scouting/alliance-selection-v5rc.md)
-  * [Apps & Tools](tournaments/scouting/apps-and-tools.md)
-  * [Match Statistics & Predictions](tournaments/scouting/match-statistics-and-predictions.md)
-* [Volunteer Roles](tournaments/volunteer-roles.md)
-* [Refereeing](tournaments/refereeing/README.md)
+* [Teams/Competitors](tournaments/teams-competitors/README.md)
+  * [Alliance Selection (V5RC)](tournaments/teams-competitors/alliance-selection-v5rc.md)
+  * [Scouting](tournaments/teams-competitors/scouting.md)
+  * [Apps & Tools](tournaments/teams-competitors/apps-and-tools.md)
+  * [Match Statistics & Predictions](tournaments/teams-competitors/match-statistics-and-predictions.md)
+  * [Team Best Practices](tournaments/teams-competitors/team-best-practices.md)
+* [Organizers/Event Partners](tournaments/organizers-event-partners/README.md)
+  * [Volunteer Roles](tournaments/organizers-event-partners/volunteer-roles.md)
+  * [Equipment](tournaments/organizers-event-partners/equipment.md)
+  * [Streaming & Video](tournaments/organizers-event-partners/streaming-and-video.md)
+  * [VEX Tournament Manager](tournaments/organizers-event-partners/vex-tournament-manager/README.md)
+    * [Event Setup](tournaments/organizers-event-partners/vex-tournament-manager/event-setup.md)
+    * [Displays](tournaments/organizers-event-partners/vex-tournament-manager/displays.md)
+    * [Best Practices](tournaments/organizers-event-partners/vex-tournament-manager/best-practices.md)
+    * [Resources](tournaments/organizers-event-partners/vex-tournament-manager/resources.md)
+* [Referees](tournaments/refereeing/README.md)
   * [Head Referee](tournaments/refereeing/head-referee.md)
   * [Scorekeeper Referee](tournaments/refereeing/scorekeeper-referee.md)
-* [Equipment](tournaments/equipment.md)
-* [Streaming & Video](tournaments/streaming-and-video.md)
-* [VEX Tournament Manager](tournaments/vex-tournament-manager/README.md)
-  * [Event Setup](tournaments/vex-tournament-manager/event-setup.md)
-  * [Displays](tournaments/vex-tournament-manager/displays.md)
-  * [Best Practices](tournaments/vex-tournament-manager/best-practices.md)
-  * [Resources](tournaments/vex-tournament-manager/resources.md)
+* [Volunteers](tournaments/volunteers.md)
 
 ## VEX V5
 
