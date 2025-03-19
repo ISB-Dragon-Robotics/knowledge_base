@@ -1,5 +1,5 @@
 ---
-description: Page by Samuel Yao (ISB)
+description: Page by Samuel Yao (ISB) & George Xu (ISB)
 ---
 
 # High Stakes (12/7/2024)
@@ -12,7 +12,13 @@ Please contact Samuel Yao (yaoshisamuel@gmail.com) for further information inqui
 
 ### Event Documents
 
+{% file src="../../.gitbook/assets/Team List.pdf" %}
 
+{% file src="../../.gitbook/assets/Qual Results.pdf" %}
+
+{% file src="../../.gitbook/assets/Elim Results.pdf" %}
+
+{% file src="../../.gitbook/assets/Qual Rank.pdf" %}
 
 ### Volunteer List
 
