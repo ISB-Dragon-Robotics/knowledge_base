@@ -14,5 +14,7 @@ Teams should focus on their notebook, ensuring that adequate time is given for d
 
 Mediocre notebooks document their progress, like a diary, but good notebooks go beyond this by incorporating reflection and sufficient planning in addition to the extensive content showing the team's design process of the robot. A rule of thumb is that a good design notebook will allow any reader, even one who isn't fully familiar with VEX, to recreate a team's robot.&#x20;
 
-All fully-developed notebooks will be graded by the Engineering Notebook Rubric (as seen in the Guide to Judging) to rank the design of teams quantitatively,&#x20;
+All fully-developed notebooks will be graded by the Engineering Notebook Rubric (as seen in the Guide to Judging) to rank the design of teams quantitatively.
+
+While competitions require a paper-based notebook, it is possible to write the notebook online and print it out prior to leaving for the competition. It is recommended to use a shared notebook, such as Notion, which we used to great effect, where it is easy to format and convert into printable forms. It is also more useful as finding specific topics that need reworking and standardizing page designs is easier on these online tools compared to writing by hand or working on tools like Word or Google Docs.
 
