@@ -103,6 +103,7 @@
   * [Fusion 360 for V5RC Intro](vex-v5/design/fusion-360.md)
 * [Programming](vex-v5/programming/README.md)
   * [Robot Movement Theory](vex-v5/programming/robot-movement-theory.md)
+  * [Odometry](vex-v5/programming/odometry.md)
 * [V5 Quick Links](vex-v5/v5-quick-links.md)
 
 ## VEX IQ
