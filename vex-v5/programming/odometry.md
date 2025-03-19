@@ -12,9 +12,7 @@ Odometry works by continuously updating the robot’s position using wheel encod
 
 ## **Odometry System Components**
 
-A proper odometry system requires two key components
-
-First, they have the tracking wheels, often called free-spinning or dead wheels. These wheels are not attached to a motor and are instead placed in contact with the ground. Often, a suspension-like system of rubber bands may be used to apply a downward force, preventing slippage. Encoders, devices that can detect movement or rotation, are used to measure movement. VEX provides Optical Shaft Encoders and V5 Rotation Sensors, both of which can be used to measure the wheel rotation
+A proper odometry system requires two key components. First, there are the tracking wheels, often called free-spinning or dead wheels. These wheels are not attached to a motor and are instead placed in contact with the ground. Often, a suspension-like system of rubber bands may be used to apply a downward force, preventing slippage. Encoders, devices that can detect movement or rotation, are used to measure movement. VEX provides Optical Shaft Encoders and V5 Rotation Sensors, both of which can be used to measure the wheel rotation
 
 If preferred, it is possible to combine this with an Inertial Sensor, such as an IMU or Gyroscope, which can measure the robot's heading, reducing errors and drift.
 
@@ -34,19 +32,17 @@ Odometry continuously calculates the robot’s position by using wheel encoder d
 
 This can be done by coding the robot to align itself at a corner or by simply placing it in an appropriate position.
 
-Now, there are 3 cases, each for a different set of Odometry wheels.
-
 We will set the following coordinate system:
 
 $$
 (x,y,\theta)
 $$
 
-Where x is the sideways coordinate, y is the forward/backward coordinate, and theta is the angle the robot points to.
+Where x is the sideways coordinate, y is the forward/backward coordinate, and theta is the angle the robot points to. Typically, it is set to (0,0,0) at the beginning.
 
-### **Case 2: Two Forward Wheels**
+### **Step 2: Track wheel positions**
 
-Track the relevant wheels, as to be discussed below
+Using the encoder, track all dead wheels and measure the change in position of each wheel every unit time.
 
 ### **Step 3: Calculations**
 
