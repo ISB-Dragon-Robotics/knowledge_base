@@ -1,5 +1,5 @@
 ---
-description: Page by Samuel Yao (ISB)
+description: Page by Samuel Yao and George Xu (ISB)
 ---
 
 # ISB Robotics Scouting Database

@@ -1,5 +1,5 @@
 ---
-description: TIS Robotics Challenge Innovate Award Winner
+description: Page by George Xu, William Pan and Samuel Yao (ISB)
 ---
 
 # 86832D Notebook (Digital)
@@ -11,3 +11,5 @@ description: TIS Robotics Challenge Innovate Award Winner
 {% endfile %}
 
 Attribution: 86832D (ISB Dragons D)
+
+TIS Robotics Challenge Innovate Award Winner

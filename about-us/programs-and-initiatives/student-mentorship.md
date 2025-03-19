@@ -1,5 +1,5 @@
 ---
-description: Page by Samuel Yao (ISB)
+description: Page by Samuel Yao and George Xu (ISB)
 cover: ../../.gitbook/assets/IMG_0819.jpeg
 coverY: -462.55555555555554
 ---
