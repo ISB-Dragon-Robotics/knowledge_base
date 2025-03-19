@@ -1,5 +1,5 @@
 ---
-description: Page by Leon Zhu (ISB), formatting by Samuel Yao (ISB)
+description: Page by Leon Zhu (ISB) & George Xu, formatting by Samuel Yao (ISB)
 ---
 
 # Robot Movement Theory
@@ -75,3 +75,5 @@ Here, sin(angle) is the angle fed into the sine function, which if you don’t k
 $$
 chord \space length = \frac{1}{2} (\frac{v_{linear}}{\omega})^2 \sin(\omega \times \Delta t)
 $$
+
+Using these calculations, it is possible to create a PID system, a script which automatically adjusts the robot's velocity and direction/recalculate its path in order to correct any deviations from the objective path. This is particularly helpful if the robot has been damaged, causing problems with the motors or increasing friction on one side. While a time-based script cannot be easily adjusted and requires continuous testing, this design will be able to compensate for these issues.
