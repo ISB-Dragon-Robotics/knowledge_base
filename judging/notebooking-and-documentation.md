@@ -1,5 +1,5 @@
 ---
-description: Page by Samuel Yao (ISB)
+description: Page by Samuel Yao (ISB) & George Xu (ISB)
 ---
 
 # Notebooking & Documentation
