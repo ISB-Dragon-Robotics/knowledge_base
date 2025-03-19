@@ -4,9 +4,11 @@ description: By George Xu (ISB)
 
 # Head Referee
 
-A Head Referee is the official responsible for fair play and rule enforcement during high school robotics tournaments. They oversee every match, make final decisions on scoring and rules, and ensure the competition runs smoothly according to the official game manual​
+A Head Referee is the official responsible for fair play and rule enforcement during high school robotics tournaments. They oversee every match, make final decisions on scoring and rules, and ensure the competition runs smoothly according to the official game manual​.
 
-The Head Referee works as part of the event’s volunteer staff, leading the team of referees and coordinating with other officials to deliver a consistent, positive experience for all teams.
+### ISB Robotics Execs:
+
+Future execs of the ISB Robotics Club should note that the ISB VEX scrimmage requires a head referee to be chosen. It is recommended to the incoming president to familiarize themselves with the rules and subsequently certify for the Head Referee exam. While this will not allow them to referee for official games, it will prepare for a more smooth scrimmage.
 
 ## Responsibilities and Duties
 
@@ -27,5 +29,3 @@ Prior experience as a VRC referee is highly recommended and in practice required
 You must register for and complete the VRC Head Referee Certification Course, and then pass the certification exam at the end. It is typically taken via the RECF online learning portal and may take several hours to finish​, as discussed previously. Upon passing, you’ll be recognized as a certified head referee for that season (often you receive a certificate or badge confirming this).
 
 With your certification in hand, reach out to local Event Partners or use the official volunteer sign-up tools (like RobotEvents.com’s Volunteer Management System) to volunteer as a Head Referee. The Head Referee must be approved/appointed by the Event Partner in charge​. When you volunteer, provide proof of your certification and any prior referee experience. You must NOT be affiliated with a participating team as it would represent a conflict of interest. You may also take no payment from the tournament as it would impact objectivity.
-
-Future execs of the ISB Robotics Club should note that the ISB VEX scrimmage requires a head referee to be chosen. It is recommended to the incoming president to familiarize themselves with the rules and subsequently certify for the Head Referee exam. While this will not allow them to referee for official games, it will prepare for a more smooth scrimmage.
