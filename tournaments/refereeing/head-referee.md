@@ -14,7 +14,7 @@ Future execs of the ISB Robotics Club should note that the ISB VEX scrimmage req
 
 The Head Referee’s primary job is to uphold the game rules and maintain fairness throughout the tournament. They oversee all matches and confirm the field is properly set up and reset each time, having the ultimate and final authority on all gameplay rulings and score decisions​. Event Partners, other referees, or coaches cannot overrule the Head Referee’s decisions on the field​.
 
-They also identify any rule violations during gameplay and issue warnings or penalties as needed. Referees are encouraged to caution teams if they are close to an infraction. The head ref applies the official VRC Game Manual rules as written, without improvising new rules. Teams should communicate with the VRC itself if needed to resolve serious disputes​. Finally, they watch for safety issues and will stop a match if needed to keep participants safe.
+They also identify any rule violations during gameplay and issue warnings or penalties as needed and are encouraged to caution teams if they are close to an infraction. They must apply the official VRC Game Manual rules as written, without improvising new rules, though they must also be aware of official VRC corrections or clarifications based on questions submitted by teams and coaches. Teams should communicate with the VRC itself if needed to resolve serious disputes​ instead of wasting time arguing on the field. Finally, refs watch for safety issues and will stop a match if needed to keep participants safe.
 
 ## Required Qualifications and Training
 
