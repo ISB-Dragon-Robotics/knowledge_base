@@ -22,21 +22,29 @@ You will now be shown a variety of options. For now, select only the base "Fusio
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2025-01-15 at 16.18.38.png" alt=""><figcaption><p>Click on the button</p></figcaption></figure>
 
-More detail for later steps will be provided once I need to review my subscription as I cannot enter the later pages. However, you will be instructed to provide a student report card. The name inside must match your account name. Once they have processed the request, you will be given permission to download Fusion.
+Please follow their instruction and provide a piece of evidence for your student status. You should recieve a student license in 1-2 days
 
 ## Computer Recommendations
 
 &#x20;It is important to have a good CPU. A mistake made by many beginners is to invest in a powerful GPU. Fusion will not use the GPU unless you are using their raytracing rendering feature, which is useless during design. The most important spec for Fusion is the single-thread performance. The application is not optimized to take advantage of core count. Having at least 16GB, preferably 32GB, of RAM is needed for large VEX models. Make sure your internet is also very good as Fusion relies heavily on online tools and saves to store your designs.
 
+## Fusion Best Practices
 
+In Fusion, it is best to reduce the amount of actual decisions. If an item must be deleted, go back to the "Fusion timeline" at the bottom of the screen and undo the addition instead of deleting the item at the end of the timeline. This reduces the load time as fusion evaluates each step by recalculating all of your past edits.
 
+You should also try to group items into either components or into their own individual file. For example, a specific combination of wheels and gears that is used repeatedly may be converted into an individual CAD file to make it easier to retrieve. The base as a whole may be grouped into a single component to help visualization: By hiding the entire base component, it is easier and faster to edit the parts above the base.
 
+Only one person can work on each file at a time. If multiple people modify a file at the same time, some changes will not be saved. Make sure to save your work before closing Fusion as autosave is not a available function. Talk to your teammates if multiple people are working on the same project. Under document settings, you can change active units. **Always use inches in vex.**
 
+## General Fusion stuff
 
+&#x20;![](<../../.gitbook/assets/Screen Shot 2025-03-19 at 13.09.58.png>)
 
+When setting up a project, you may find a list on the sidebar, shown above. You can click "New Project", which we have done to create the "ISB CAD" project.
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWUX36EwRiGXN1XMkgowMUR98Gq_oILhCv0RCAv4isjLHObREgyOaV45U2EpIAjF9z9bXOiSSZjstAC7KLSdIPtOME5EnluenfagbIaG-iWhfcHp5jdaroorJeBEGssryN1C3uig?key=YgGEmF37zgO5qhrHs4oU9jHT)
 
-
+Seen above, it is possible to create folders inside the project, making it easier to find certain parts.
 
 
 
@@ -54,7 +62,7 @@ Screw joints
 
 ## Setting up Fusion 360
 
-## General Fusion stuff
+##
 
 
 
