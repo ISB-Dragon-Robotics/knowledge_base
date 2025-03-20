@@ -20,7 +20,7 @@ layout:
 
 # 🏠 Main Page
 
-Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school robotics community in China, as well as compiling and sharing robotics knowledge with all VEX robot enthusiasts and community stakeholders.
+Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school robotics community in China. It also aims to compile and share robotics knowledge with all VEX robot enthusiasts and community stakeholders, regardless of location or team affiliation.
 
 ## Navigation
 
