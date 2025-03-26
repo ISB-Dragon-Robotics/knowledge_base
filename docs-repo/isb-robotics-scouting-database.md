@@ -4,7 +4,7 @@ description: Page by Samuel Yao and George Xu (ISB)
 
 # ISB Robotics Scouting Database
 
-The ISB Robotics Scouting Database is created in 2024 to allow for (rough) statistical calculations of match statistics for tournaments taking place outside of official RECF/V5RC events.&#x20;
+The ISB Robotics Scouting Database was first created in 2024 to allow for (rough) statistical calculations of match statistics for tournaments taking place outside of official RECF/V5RC events.&#x20;
 
 ## Methodology
 
