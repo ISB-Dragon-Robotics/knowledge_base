@@ -1,5 +1,21 @@
 ---
 description: Page by Samuel Yao (ISB)
+cover: ../.gitbook/assets/IMG_3015 (2).jpeg
+coverY: -147.55809523809523
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Tournaments Homepage

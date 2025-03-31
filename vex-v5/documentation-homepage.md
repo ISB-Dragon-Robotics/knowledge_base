@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/IMG_1155.JPG
+coverY: 0
+---
+
 # V5 Documentation Homepage
 
 This section details the various elements of the VEX V5 robotics system ranging from its parts, building, designing and programming for V5.
