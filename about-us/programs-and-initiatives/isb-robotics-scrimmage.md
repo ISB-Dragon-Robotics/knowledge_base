@@ -8,4 +8,30 @@ coverY: 0
 
 The ISB Robotics Scrimmage is an annually hosted tournament by the ISB HS Robotics Club during the early competition season for international schools in Beijing and greater China to test designs before major tournaments at the end of the competition season. Schools participating in the ISB Robotics Scrimmage in 2023 include the International School of Beijing, Beijing City International School, Western Academy of Beijing, and the Boston International School (Wuxi). Before the COVID-19 Pandemic, the Tianjin International School also participated in scrimmages hosted by ISB.
 
-The event is supervised by the club supervisors for ISB HS Robotics and consists of volunteers from ISB HS Robotics and the greater ISB community. For more information about past scrimmages, please click [here](../../docs-repo/isb-scrimmage-tournament-repository/).
+The event is supervised by the club supervisors for ISB HS Robotics and consists of volunteers from ISB HS Robotics and the greater ISB community. For specific information about past scrimmages, please click [here](../../docs-repo/isb-scrimmage-tournament-repository/).
+
+## Competition History
+
+### 2024: High Stakes
+
+Tournament Champions:
+
+* 86832A (ISB Dragons A)
+* 86832B (Robust)
+
+Tournament Finalists
+
+* 42785B (WAB 2)
+* 34844B (Tiny & Friends)
+
+### 2023: Over Under
+
+Tournament Champions:
+
+* 86832C (ISB Dragons C)
+* 42785A (WAB 1/Speeding Tigers)
+
+Tournament Finalists
+
+* 86832A (ISB Dragons A)
+* 86832D (ISB Dragons D)

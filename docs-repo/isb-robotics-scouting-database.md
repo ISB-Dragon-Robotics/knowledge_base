@@ -1,5 +1,5 @@
 ---
-description: Page by Samuel Yao and George Xu (ISB)
+description: Page by Samuel Yao (ISB) and Silas Brock (ISB)
 ---
 
 # ISB Robotics Scouting Database
@@ -16,9 +16,20 @@ When possible, information is taken from official sources such as Robotevents.co
 
 The spreadsheet is a work in progress and not publicly available currently. Please email samuel.yao@student.isb.bj.edu.cn to request access.
 
+### ACAMIS Nationals Scoutsheet:
+
+As part of the scouting strategy of 86832D, a scout sheet of most participating teams was created under the team's Engineering Design Notebook in Notion.&#x20;
+
 ### Release Notes:&#x20;
 
 Statistics from the ACAMIS North Regional and the Concordia Robotics Challenge have been recorded. There is not sufficient match information to record match statistics for the APAC Tournament in November, but the calculations necessary for the ISB Robotics Scrimmage are still in progress.&#x20;
+
+### Contributors:
+
+* Samuel Yao&#x20;
+* Gillian Cao
+* Nathan Yu
+* Other 86832D Members
 
 ## 2023-2024: Over Under
 
@@ -39,10 +50,6 @@ For the 2024 Trial APAC Robotics Tournament (Over Under), match statistics may b
 * Samuel Yao (samuel.yao@student.isb.bj.edu.cn)&#x20;
 * Silas Brock
 * Evan Sun
-
-## 2024-2025: High Stakes
-
-The scouting database is still in development and is currently not publicly available.
 
 ## Sources & Inspiration
 

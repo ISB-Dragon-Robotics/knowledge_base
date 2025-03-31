@@ -18,7 +18,7 @@ The following are the HS Student Mentors for the 2024-2025 VIQRC season:&#x20;
 
 * William Pan
 * Samuel Yao (MS Coordinator)
-* Minghon Li&#x20;
+* Minghon Li (Semester 1)
 * Patrick Young (Part-time, Semester 2)
 * Emily Zhou (Part-time)
 
@@ -30,7 +30,7 @@ ISB Robotics would like to acknowledge the contributions of our former HS Studen
 
 * William Pan
 * Samuel Yao (MS Coordinator)
-* Minghon Li&#x20;
+* Minghon Li (Semester 1)
 * Patrick Young (Part-time, Semester 2)
 * Emily Zhou (Part-time)
 

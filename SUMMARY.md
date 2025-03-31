@@ -27,6 +27,7 @@
   * [ACAMIS Robotics](about-us/programs-and-initiatives/acamis-robotics.md)
   * [VEX V5 Robotics Competition](about-us/programs-and-initiatives/vex-v5-robotics-competition.md)
   * [VEX IQ Robotics Competition](about-us/programs-and-initiatives/vex-iq-robotics-competition.md)
+  * [Spring Fair Booth](about-us/programs-and-initiatives/spring-fair-booth.md)
 
 ## Documentation Repository <a href="#docs-repo" id="docs-repo"></a>
 
