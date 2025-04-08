@@ -21,17 +21,17 @@ As of 2024, the HS Executive Team consists of 8 _de jure_ positions with some le
 
 The respective powers and responsibilities of each executive in the team are outlined in the ISB Robotics Club Constitution. Within the competition season, executives are typically focused on their individual teams. During the off-season, currently defined as after between the end of the last competition of the academic year and the release of new game instructions, executives focus more on education and management roles.
 
-## 2024-2025 HS Executive Team
+## 2025-2026 HS Executive Team
 
-The HS Executive Team for the 2024-2025 school year are:
+The HS Executive Team for the 2025-2026 school year are:
 
-* Club President: Samuel Yao
-* Vice President: Ryan Quon
-* Club Secretary: Bowen Ke&#x20;
-* Lead Designer: George Xu&#x20;
-* Lead Programmer: Leon Zhu&#x20;
-* Lead Engineer: William Pan&#x20;
-* MS Robotics Coordinator: Samuel Yao
+* Club President: Eddie Xu
+* Vice President: Bowen Ke
+* Club Secretary: Patrick Young
+* Lead Designer: TBD
+* Lead Programmer: TBD
+* Lead Engineer: TBD
+* MS Robotics Coordinator: TBD
 * _Public Relations/Communications Exec. (Vacant)_
 
 ## Past HS Executive Team Members
