@@ -34,6 +34,8 @@
 * [Documentation Homepage](docs-repo/documentation-homepage/README.md)
 * [Past Engineering Notebooks](docs-repo/documentation-homepage/past-engineering-notebooks/README.md)
   * [VEX V5 Robotics Competition](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/README.md)
+    * [2024-2025: High Stakes](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2024-2025-high-stakes/README.md)
+      * [Robust (86832B)](docs-repo/past-engineering-notebooks/vex-v5-robotics-competition/2024-2025-high-stakes/robust-86832b.md)
     * [2023-2024: Over Under](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/README.md)
       * [86832A Notebook](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832a-notebook.md)
       * [86832B Notebook (Digital)](docs-repo/documentation-homepage/past-engineering-notebooks/vex-v5-robotics-competition/2023-2024-over-under/86832b-notebook-digital.md)
