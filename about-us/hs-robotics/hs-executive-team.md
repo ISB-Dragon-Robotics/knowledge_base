@@ -28,10 +28,10 @@ The HS Executive Team for the 2025-2026 school year are:
 * Club President: Eddie Xu
 * Vice President: Bowen Ke
 * Club Secretary: Patrick Young
-* Lead Designer: TBD
-* Lead Programmer: TBD
-* Lead Engineer: TBD
-* MS Robotics Coordinator: TBD
+* Lead Designer: Emily Zhou
+* Lead Programmer: Leo Liu
+* Lead Engineer: William Pan
+* MS Robotics Coordinator: (Vacant)
 * _Public Relations/Communications Exec. (Vacant)_
 
 ## Past HS Executive Team Members
@@ -45,7 +45,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Bowen Ke (Secretary)
 * George Xu (Lead Designer)
 * Leon Zhu (Lead Programmer)
-* William Pan (Lead Engineer, MS Robotics Coordinator)
+* William Pan (Lead Engineer)
 
 ### 2023-2024
 
@@ -53,7 +53,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Myungjun (Jun) Lee (Co-President)
 * Ryan Quon (Secretary)
 * Taylor Kim (Lead Programmer)
-* Samuel Yao (Lead Engineer)
+* Samuel Yao (Lead Engineer, _de facto_ MS Robotics Coordinator)
 
 ### 2022-2023
 
