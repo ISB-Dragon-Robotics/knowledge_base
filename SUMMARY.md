@@ -13,6 +13,7 @@
   * [Robust (86832B)](about-us/hs-robotics/86832b.md)
   * [86832C](about-us/hs-robotics/86832c.md)
   * [86832D](about-us/hs-robotics/86832d.md)
+  * [Miscellaneous Teams](about-us/hs-robotics/miscellaneous-teams.md)
 * [MS Robotics](about-us/ms-robotics/README.md)
   * [Coaches/Supervisors](about-us/ms-robotics/faculty-supervisors.md)
   * [History](about-us/ms-robotics/history.md)
