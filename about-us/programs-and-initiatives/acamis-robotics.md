@@ -10,6 +10,8 @@ For the purposes of qualification, ACAMIS Robotics is divided into three regions
 
 For more information, please see the following link: [https://www.acamis.org/student-activities/robotics](https://www.acamis.org/student-activities/robotics).
 
+<table><thead><tr><th width="250.74609375">Award</th><th width="189">VIQRC</th><th>V5RC</th></tr></thead><tbody><tr><td>Excellence</td><td></td><td>2053X, PXR0, SAS Puxi</td></tr><tr><td>Tournament/Teamwork Champions</td><td></td><td>13212B, Top Gear, CISS</td></tr><tr><td>Tournament/Teamwork Runner-Up</td><td></td><td>2053V, Chubucas, SAS Puxi</td></tr><tr><td>Tournament Finalists </td><td></td><td>81342V, Im the real real one, AISG</td></tr><tr><td>Tournament Finalists </td><td></td><td> 2053X, PXR0, SAS Puxi</td></tr><tr><td>Tournament Semifinalists </td><td></td><td>13212A, The Egoist, CISS</td></tr><tr><td>Tournament Semifinalists</td><td>-</td><td>2053T, Turebo, SAS Puxi</td></tr><tr><td>Design Award</td><td>-</td><td>42785B, WAB 2, WAB</td></tr><tr><td>Robot Skills Champion</td><td>-</td><td>2053X, PXR0, SAS Puxi</td></tr><tr><td>Robot Skills 2nd Place</td><td></td><td>81342V, Im the real real one, AISG</td></tr><tr><td>Judges Award</td><td></td><td>13212E, Tri-Rico, CISS</td></tr><tr><td>Judges Award</td><td></td><td>14316A, NCPA-A, NCPA</td></tr><tr><td>not finished</td><td></td><td></td></tr></tbody></table>
+
 ## ACAMIS National Championship 2024
 
 The following are the award winners for the ACAMIS 2024 Nationals:
