@@ -18,7 +18,11 @@ The spreadsheet is a work in progress and not publicly available currently. Plea
 
 ### ACAMIS Nationals Scoutsheet:
 
-As part of the scouting strategy of 86832D, a scout sheet of most participating teams was created under the team's Engineering Design Notebook in Notion.&#x20;
+As part of the scouting strategy of 86832D, a scout sheet of most participating teams was created under the team's Engineering Design Notebook in Notion. All comments on the scoutsheet are made by scouts of 86832D and do not represent in any way or form the thoughts of the entire team or ISB Robotics Club.&#x20;
+
+{% embed url="https://axiomatic-cake-105.notion.site/1a791c67c4ad80ba93e9c0e0f6b228c7?v=1a791c67c4ad80eab10e000c3cb522ab" %}
+Link to scoutsheet on Notion notebook
+{% endembed %}
 
 ### Release Notes:&#x20;
 
