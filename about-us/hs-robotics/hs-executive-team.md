@@ -1,5 +1,7 @@
 ---
 description: Page by Samuel Yao (ISB) and George Xu (ISB)
+cover: ../../.gitbook/assets/Robotics (2) (1).jpg
+coverY: 0
 ---
 
 # HS Executive Team
@@ -16,7 +18,7 @@ As of 2024, the HS Executive Team consists of 8 _de jure_ positions with some le
 * Lead Designer: Leads education of tool-assisted design, design documentation and design cycle processes.&#x20;
 * Lead Programmer: Leads teaching of programming, software tools and sensors.
 * Lead Engineer: Leads introduction and teaching of building, engineering, electrical and pneumatic construction.
-* MS Robotics Coordinator: Leads the [Student Mentorship Program](../programs-and-initiatives/student-mentorship.md).
+* _MS Robotics Coordinator: Leads the_ [_Student Mentorship Program_](../programs-and-initiatives/student-mentorship.md)_._
 * _Public Relations/Communications Exec.: Manages club social media and communicates with community stakeholders & other teams._
 
 The respective powers and responsibilities of each executive in the team are outlined in the ISB Robotics Club Constitution. Within the competition season, executives are typically focused on their individual teams. During the off-season, currently defined as after between the end of the last competition of the academic year and the release of new game instructions, executives focus more on education and management roles.
@@ -38,11 +40,20 @@ The HS Executive Team for the 2025-2026 school year are:
 
 The ISB Robotics Club would like to acknowledge the contributions of previous HS Executive Teams throughout the history of the ISB HS Robotics Club, including:
 
+### 2025-2026
+
+* Eddie Xu (Club President)
+* Bowen Ke (Vice President)
+* Patrick Young (Club Secretary)
+* Emily Zhou (Lead Designer)
+* Leo Liu (Lead Programmer)
+* William Pan (Lead Engineer)
+
 ### 2024-2025
 
-* Samuel Yao (President, MS Robotics Coordinator)
+* Samuel Yao (Club President, MS Robotics Coordinator)
 * Ryan Quon (Vice President)
-* Bowen Ke (Secretary)
+* Bowen Ke (Club Secretary)
 * George Xu (Lead Designer)
 * Leon Zhu (Lead Programmer)
 * William Pan (Lead Engineer)
@@ -51,7 +62,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 
 * Silas Brock (Co-President)
 * Myungjun (Jun) Lee (Co-President)
-* Ryan Quon (Secretary)
+* Ryan Quon (Club Secretary)
 * Taylor Kim (Lead Programmer)
 * Samuel Yao (Lead Engineer, _de facto_ MS Robotics Coordinator)
 
@@ -59,7 +70,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 
 * Silas Brock (Co-President)
 * Myungjun (Jun) Lee (Co-President)
-* Ryan Quon (Secretary)
+* Ryan Quon (Club Secretary)
 * Sofia Poulsen (Lead Programmer)
 * Haozhe Liu (Lead Engineer)
 
@@ -87,7 +98,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Victor Ren
 * Austin Zeng
 * Hannah Lu
-* Vanessa Quon
+* Vanessa Quon&#x20;
 
 ### 2014-2015
 
@@ -97,4 +108,4 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Saksham Bausal (Secretary)
 * Tim Park (Public Relations)
 
-Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented or documented.
+Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented or documented. Executive roles are included when there is available information from historical club documentation.&#x20;
