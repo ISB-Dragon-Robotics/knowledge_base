@@ -6,7 +6,7 @@ description: Page by Samuel Yao (ISB)
 
 ## Time Management Essentials for the Notebook
 
-
+* thinkcell gantt chart
 
 
 
