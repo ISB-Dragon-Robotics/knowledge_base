@@ -1,6 +1,5 @@
 ---
 description: Page by Samuel Yao (ISB)
-coverY: 0
 ---
 
 # Programs & Initiatives

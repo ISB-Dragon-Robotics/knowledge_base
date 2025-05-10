@@ -7,7 +7,7 @@
 * [Robotics at ISB](about-us/robotics-at-isb.md)
 * [HS Robotics](about-us/hs-robotics/README.md)
   * [Club Advisors/Coaches](about-us/hs-robotics/faculty-supervisors.md)
-  * [History](about-us/hs-robotics/history.md)
+  * [Club History](about-us/hs-robotics/history.md)
   * [HS Executive Team](about-us/hs-robotics/hs-executive-team.md)
   * [86832A](about-us/hs-robotics/86832a.md)
   * [Robust (86832B)](about-us/hs-robotics/86832b.md)
@@ -24,11 +24,12 @@
 * [Programs & Initiatives](about-us/programs-and-initiatives/README.md)
   * [ISB Robotics Scrimmage](about-us/programs-and-initiatives/isb-robotics-scrimmage.md)
   * [Student Mentorship](about-us/programs-and-initiatives/student-mentorship.md)
+  * [ISB Robotics Knowledge Base](about-us/programs-and-initiatives/isb-robotics-knowledge-base.md)
+  * [Spring Fair Booth](about-us/programs-and-initiatives/spring-fair-booth.md)
   * [APAC Robotics](about-us/programs-and-initiatives/apac-robotics.md)
   * [ACAMIS Robotics](about-us/programs-and-initiatives/acamis-robotics.md)
   * [VEX V5 Robotics Competition](about-us/programs-and-initiatives/vex-v5-robotics-competition.md)
   * [VEX IQ Robotics Competition](about-us/programs-and-initiatives/vex-iq-robotics-competition.md)
-  * [Spring Fair Booth](about-us/programs-and-initiatives/spring-fair-booth.md)
 
 ## Documentation Repository <a href="#docs-repo" id="docs-repo"></a>
 
@@ -71,7 +72,7 @@
 * [Judge Interviews](judging/judge-interviews.md)
 * [Design Process/Cycle](judging/design-process-cycle/README.md)
   * [ISB Design Cycle in V5RC/VIQRC](judging/design-process-cycle/isb-design-cycle-in-v5rc-viqrc.md)
-* [Judged Awards & the Guide to Judging](judging/judged-awards-and-the-guide-to-judging.md)
+* [Awards, Guides and Judging Q\&A](judging/awards-guides-and-judging-q-and-a.md)
 * [Best Practices](judging/best-practices.md)
 * [Judging Quick Links](judging/judging-homepage/quick-links.md)
 

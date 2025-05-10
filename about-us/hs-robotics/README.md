@@ -11,3 +11,5 @@ The ISB High School Robotics Club is a (formerly student-run) organization that 
 The club is administratively overseen by Faculty Supervisors comprising ISB Faculty in the Design, Science, and Computer Science departments. The operations of the club are supported by ISB Design and Science staff.&#x20;
 
 The HS Executive Team is the student leadership of the ISB HS Robotics Club and is responsible for the overall operations of the HS Robotics Club, its teams, and its initiatives. The executive team works closely with the Faculty Advisors and other staff to support the ISB Robotics Club.
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
