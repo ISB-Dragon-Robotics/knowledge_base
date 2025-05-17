@@ -1,8 +1,12 @@
-# ISB Robotics Knowledge Base
+---
+hidden: true
+---
+
+# 🏠 Main Page
 
 Created in 2024, the ISB Robotics Knowledge Base is a website dedicated to the history and documentation of Robotics at the International School of Beijing and the greater international school robotics community in China. It also aims to compile and share robotics knowledge with all VEX robot enthusiasts and community stakeholders, regardless of location or team affiliation.
 
-This GitHub respository is used to store the content of the GitBook website and to track changes made to the website over time. The website can be accessed here: https://isb-robotics.gitbook.io/wiki. 
+This GitHub respository is used to store the content of the GitBook website and to track changes made to the website over time. The website can be accessed here: https://isb-robotics.gitbook.io/wiki.
 
 ## Contribution
 
