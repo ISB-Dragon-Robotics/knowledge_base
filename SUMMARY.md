@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🏠 Main Page](README.md)
-* [🏠 Main Page](main-page-1.md)
 
 ## About Us
 
