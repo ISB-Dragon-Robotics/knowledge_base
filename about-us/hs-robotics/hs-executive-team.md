@@ -100,6 +100,15 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Hannah Lu
 * Vanessa Quon&#x20;
 
+### 2016-2017 (tentative list)
+
+* Advanced President: Jonathan Li
+* Advanced Chief Engineer: Saksham Bansal
+* Beginning President: Naina Kaimal
+* Beginning Engineer: Tim Noh
+* PR/Secretary Kaitlyn Fong
+* Promotion to advanced group (?): Jeewoong Chang & Sibo Wang
+
 ### 2014-2015
 
 * Chris Wong (Co-President)
