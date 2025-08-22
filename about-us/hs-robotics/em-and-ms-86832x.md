@@ -14,6 +14,6 @@ description: Page by Samuel Yao (ISB)
 
 * Emily Zhou
 * Aiden Kim
-* David
+* David Yao
 * Erna
 * Sophie Wang

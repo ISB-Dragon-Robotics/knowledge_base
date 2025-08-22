@@ -16,11 +16,13 @@ Throughout the early history of the club (though unclear), evidence suggests tha
 
 The first record of VRC tournament participation by ISB HS Robotics teams is in the [ROBOTC Nothing But Net Tournament](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-16-4173.html#teams) in Xi'an with team numbers 32004A and 32004B.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-22 at 8.44.59 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-22 at 8.44.59 PM.png" alt="(2016 Xi&#x27;an robotics competition trip sheet)" width="375"><figcaption><p align="center">(2016 Xi'an robotics competition trip sheet)</p></figcaption></figure>
 
-<p align="center">(2016 Xi'an robotics competition trip sheet)</p>
+later switching to team number 91033A in the [Tianjin International Starstruck Competition](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-16-5042.html#teams).&#x20;
 
-later switching to team number 91033A in the [Tianjin International Starstruck Competition](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-16-5042.html#teams). The current organization team number 86832 was first adopted in the 2018-2019 Turning Point season with the teams 86832A and 86832B, with 86832C and 86832D being introduced in 2019-2020 Tower Takeover.&#x20;
+<div><figure><img src="../../.gitbook/assets/Screenshot 2025-08-22 at 9.40.12 PM.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-08-22 at 9.41.08 PM.png" alt="" width="375"><figcaption><p>2017 email exchange surrounding TIS Robotics Challenge.</p></figcaption></figure></div>
+
+The current organization team number 86832 was first adopted in the 2018-2019 Turning Point season with the teams 86832A and 86832B, with 86832C and 86832D being introduced in 2019-2020 Tower Takeover.&#x20;
 
 <figure><img src="../../.gitbook/assets/Robotics Logo No Background (1).png" alt="" width="375"><figcaption><p>ISB Robotics Logo (~2019 - 2024)</p></figcaption></figure>
 
