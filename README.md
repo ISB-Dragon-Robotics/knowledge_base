@@ -40,6 +40,7 @@ Other users who wish to submit changes/updates without submitting a pull request
 
 * Samuel Yao (ISB, Site Founder)
 * William Pan (ISB)
+* Patrick Young (ISB)
 * Jun Lee (VEXU Team ILLINI, ISB)
 * Silas Brock (ISB)
 * Leon Zhu (ISB)
