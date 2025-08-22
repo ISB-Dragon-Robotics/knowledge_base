@@ -32,3 +32,5 @@ Subsequent APAC Tournaments have also included the following schools:
 For more information about the historical documentation of past APAC Robotics tournaments please click [here](../../docs-repo/documentation-homepage/apac-robotics-documentation.md).
 
 For the 2024-2025 High Stakes season, the event was hosted by Shanghai American School Pudong in November of 2024.&#x20;
+
+For the 2025-2026 Push Back season, APAC Robotics will officially exit the trial phase, and become an official APAC event.
