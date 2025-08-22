@@ -2,20 +2,6 @@
 description: Page by William Pan
 cover: ../.gitbook/assets/IMG_7730.JPG
 coverY: 135.1324937027708
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # William's Tutorial (April 2025)

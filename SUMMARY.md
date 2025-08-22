@@ -8,6 +8,7 @@
 * [HS Robotics](about-us/hs-robotics/README.md)
   * [Club Advisors/Coaches](about-us/hs-robotics/faculty-supervisors.md)
   * [Club History](about-us/hs-robotics/history.md)
+  * [Miscellaneous Documents](about-us/hs-robotics/miscellaneous-documents.md)
   * [HS Executive Team](about-us/hs-robotics/hs-executive-team.md)
   * [Bobo & Co. (86832A)](about-us/hs-robotics/86832a.md)
   * [Elevator Elevator (86832B)](about-us/hs-robotics/86832b.md)
