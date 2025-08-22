@@ -33,7 +33,7 @@ The HS Executive Team for the 2025-2026 school year are:
 * Lead Designer: Emily Zhou
 * Lead Programmer: Leo Liu
 * Lead Engineer: William Pan
-* MS Robotics Coordinator: (Vacant)
+* _MS Robotics Coordinator: (Vacant)_
 * _Public Relations/Communications Exec. (Vacant)_
 
 ## Past HS Executive Team Members
@@ -76,7 +76,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 
 ### 2021-2022
 
-* Derek Huang
+* Derek Huang (President)
 * Haozhe Liu
 * Justin Jeon
 * Seongjun Choi
