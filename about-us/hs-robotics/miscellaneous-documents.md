@@ -15,3 +15,5 @@ Above is the order sheet for the Nothing But Net season.
 <p align="center"></p>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-22 at 8.54.03 PM.png" alt="" width="375"><figcaption><p align="center">(Possibly) a merchandise ordering list.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-22 at 9.48.22 PM.png" alt=""><figcaption><p>2015-2016 Purchasing contract with China ROBOTC</p></figcaption></figure>
