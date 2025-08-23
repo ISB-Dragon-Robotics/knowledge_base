@@ -2,7 +2,7 @@
 
 ### At a glance
 
-The VEX V5 Robotics Competition (V5RC) is a program where students form teams, whom then builds robots to compete in a game, with the game changing every year.
+The VEX V5 Robotics Competition (V5RC) is a program where students form teams to build robots. These robots are then operated by the team to compete in a game, with the game changing every year.
 
 <div><figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>2024-2025 Game - High Stakes</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>2021-2022 Game - Tipping Point</p></figcaption></figure></div>
 
