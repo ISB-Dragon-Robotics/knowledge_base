@@ -27,8 +27,6 @@ When attending a competition, you will most likely experience the following:
 **Robot Inspection**
 
 Before anything, your robot will be brought to the inspection desk, where volunteers ensure your robot abides by all the requirements set in the rulebook. This is also your chance to submit your engineering notebook.
-
-***
 {% endcolumn %}
 
 {% column width="50%" %}
@@ -39,8 +37,6 @@ Before anything, your robot will be brought to the inspection desk, where volunt
 The pit is where all the teams are when not competing. Each team will be assigned a table where they can rest or work on the robot.
 
 
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,19 +44,19 @@ The pit is where all the teams are when not competing. Each team will be assigne
 
 {% columns %}
 {% column %}
+***
+
 **Practice Field**
 
 This is not a always guarantee, but some competitions will have a practice field set up that teams can use to test and fix their robots, though some competitions may require you to sign-up for a time.
-
-***
 {% endcolumn %}
 
 {% column %}
+***
+
 **Practice Rounds**
 
 Not to be confused with practice fields, practice rounds are matches that occur before official matches begin to give teams a chance to practice, they usually appear at larger competitions
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -68,19 +64,19 @@ Not to be confused with practice fields, practice rounds are matches that occur 
 
 {% columns %}
 {% column %}
+***
+
 **Qualification Rounds**
 
 This is the real stuff. Qualification rounds are matches you play to determine your ranking. You will be assigned a random alliance and color each round, where you must work together against the opposing alliance.
-
-***
 {% endcolumn %}
 
 {% column %}
+***
+
 **Pit display**
 
 This is a display that usually appears... in the pit, it displays every team's name, ranking (a combination of win points, autonomous points, and strength of schedule points, more information [here](https://v5rc-kb.recf.org/hc/en-us/articles/9654355674903-Tournament-Ranking-Calculations)) , along with upcoming matches.
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -88,19 +84,19 @@ This is a display that usually appears... in the pit, it displays every team's n
 
 {% columns %}
 {% column %}
+***
+
 **Interviews**
 
 Throughout the duration of qualification matches, judges will go around the pit area and interview teams about their robot. This is not only an assessment of authenticity, its also a chance to demonstrate your team's design process and thinking. (More information [here](../../judging/judge-interviews.md))
-
-***
 {% endcolumn %}
 
 {% column %}
+***
+
 **Skills**&#x20;
 
 Unlike the aforementioned matches, a skills match is only played by one team at a time, with a different field setup. The goal of a skills match is to score as high as possible. Both driver skills and programming skills are available.
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -108,25 +104,27 @@ Unlike the aforementioned matches, a skills match is only played by one team at 
 
 {% columns %}
 {% column %}
+***
+
 **Alliance Selection**
 
 At the end of qualification, this happens. The top X (number varies by size of competition) teams will become alliance captains, they will then select another team to be their alliance partner for the **rest of the event**, the selected team can reject or accept. Teams that are not alliance captains & are not selected are eliminated.
-
-***
 {% endcolumn %}
 
 {% column %}
+***
+
 **Elimination Rounds**
 
 After alliance selection is finished, elimination rounds begin. This is played in a competition-bracket style matchup, where (the now consistent) alliances are pitted against each other, with the winners climbing up the bracket, and the losers being eliminated.
 
 
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
 
+
+***
 
 **Awards**
 
