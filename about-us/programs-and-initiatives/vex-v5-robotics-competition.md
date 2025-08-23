@@ -1,5 +1,7 @@
 # VEX V5 Robotics Competition
 
+### At a glance
+
 The VEX V5 Robotics Competition (V5RC) is a program where students form teams, whom then builds robots to compete in a game, with the game changing every year.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>2024-2025 Game - High Stakes</p></figcaption></figure>
@@ -11,3 +13,63 @@ the game is played on a **12ft x 12ft** field.
 a match is played in a **2 v 2 format**, with two teams joining forced to form an alliance. The alliance then works together to compete against the opposing alliance.
 
 V5RC robots follows a **whitelist system**, with only parts explicitly allowed by VEX can be used on the robot.
+
+V5RC abides by the **RECF Student-Centered Policy,** meaning that even though coaches/supervisors are allowed to teach and mentor, they are barred from helping students in the development, building or documenting the robot in any way.
+
+### At a competition
+
+When attending a competition, you will most likely experience the following:
+
+{% columns %}
+{% column width="50%" %}
+**Robot Inspection**
+
+Before anything, your robot will be brought to the inspection desk, where volunteers ensure your robot abides by all the requirements set in the rulebook. This is also your chance to submit your engineering notebook.
+{% endcolumn %}
+
+{% column width="50%" %}
+**Pit**
+
+The pit is where all the teams are when not competing. Each team will be assigned a table where they can rest or work on the robot.
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+**Practice Field**
+
+This is not a always guarantee, but some competitions will have a practice field set up that teams can use to test and fix their robots, though some competitions may require you to sign-up for a time.
+{% endcolumn %}
+
+{% column %}
+**Practice Rounds**
+
+Not to be confused with practice fields, practice rounds are matches that occur before official matches begin to give teams a chance to practice, they usually appear at larger competitions
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+**Qualification Rounds**
+
+This is the real stuff. Qualification rounds are matches you play to determine your ranking (a combination of win points, autonomous points, and strength of schedule points, more information [here](https://v5rc-kb.recf.org/hc/en-us/articles/9654355674903-Tournament-Ranking-Calculations))
+{% endcolumn %}
+
+{% column %}
+**Pit display**
+
+This is a display that usually appears... in the pit, it displays every team's name, ranking, along with upcoming matches.
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+**Interviews**
+
+Throughout the duration of qualification matches, judges will go around the pit area and interview teams about their robot. This is not only an assessment of authenticity, its also a chance to demonstrate your team's design process and thinking. (More information [here](../../judging/judge-interviews.md))
+{% endcolumn %}
+
+{% column %}
+Skills Challenge
+{% endcolumn %}
+{% endcolumns %}
