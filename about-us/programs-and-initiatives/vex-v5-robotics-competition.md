@@ -56,7 +56,7 @@ This is not a always guarantee, but some competitions will have a practice field
 
 **Practice Rounds**
 
-Not to be confused with practice fields, practice rounds are matches that occur before official matches begin to give teams a chance to practice, they usually appear at larger competitions
+Not to be confused with practice fields, practice rounds are matches that occur before official matches begin to give teams a chance to practice, they usually appear at larger competitions.
 {% endcolumn %}
 {% endcolumns %}
 
