@@ -44,6 +44,8 @@ The pit is where all the teams are when not competing. Each team will be assigne
 {% endcolumn %}
 {% endcolumns %}
 
+
+
 {% columns %}
 {% column %}
 **Practice Field**
@@ -62,11 +64,13 @@ Not to be confused with practice fields, practice rounds are matches that occur 
 {% endcolumn %}
 {% endcolumns %}
 
+
+
 {% columns %}
 {% column %}
 **Qualification Rounds**
 
-This is the real stuff. Qualification rounds are matches you play to determine your ranking (a combination of win points, autonomous points, and strength of schedule points, more information [here](https://v5rc-kb.recf.org/hc/en-us/articles/9654355674903-Tournament-Ranking-Calculations))
+This is the real stuff. Qualification rounds are matches you play to determine your ranking. You will be assigned a random alliance and color each round, where you must work together against the opposing alliance.
 
 ***
 {% endcolumn %}
@@ -74,13 +78,13 @@ This is the real stuff. Qualification rounds are matches you play to determine y
 {% column %}
 **Pit display**
 
-This is a display that usually appears... in the pit, it displays every team's name, ranking, along with upcoming matches.
-
-
+This is a display that usually appears... in the pit, it displays every team's name, ranking (a combination of win points, autonomous points, and strength of schedule points, more information [here](https://v5rc-kb.recf.org/hc/en-us/articles/9654355674903-Tournament-Ranking-Calculations)) , along with upcoming matches.
 
 ***
 {% endcolumn %}
 {% endcolumns %}
+
+
 
 {% columns %}
 {% column %}
@@ -95,5 +99,40 @@ Throughout the duration of qualification matches, judges will go around the pit 
 **Skills**&#x20;
 
 Unlike the aforementioned matches, a skills match is only played by one team at a time, with a different field setup. The goal of a skills match is to score as high as possible. Both driver skills and programming skills are available.
+
+***
 {% endcolumn %}
 {% endcolumns %}
+
+
+
+{% columns %}
+{% column %}
+**Alliance Selection**
+
+At the end of qualification, this happens. The top X (number varies by size of competition) teams will become alliance captains, they will then select another team to be their alliance partner for the **rest of the event**, the selected team can reject or accept. Teams that are not alliance captains & are not selected are eliminated.
+
+***
+{% endcolumn %}
+
+{% column %}
+**Elimination Rounds**
+
+After alliance selection is finished, elimination rounds begin. This is played in a competition-bracket style matchup, where (the now consistent) alliances are pitted against each other, with the winners climbing up the bracket, and the losers being eliminated.
+
+
+
+***
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+**Awards**
+
+At the end of the event, awards are given out to teams, these are seperated into Judged Awards and Performance Awards. Performance Awards are determined by rank, with the elimination bracket winner obtaining the "Tournament Champion" award. Judged awards, however, take into account your engineering notebook, your robot, team interview, etc. Awards like the Innovate award is given to a team that highlights an innovative aspect of their robot in their engineering notebook. At some events, awards can qualify for a higher-level event, eg. ACAMIS North -> ACAMIS Nationals -> VEX Worlds. In most cases in chinese intl. school leagues, this award is the Exellence Award.
+
+
+
+
+
