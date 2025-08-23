@@ -22,15 +22,25 @@ When attending a competition, you will most likely experience the following:
 
 {% columns %}
 {% column width="50%" %}
+***
+
 **Robot Inspection**
 
 Before anything, your robot will be brought to the inspection desk, where volunteers ensure your robot abides by all the requirements set in the rulebook. This is also your chance to submit your engineering notebook.
+
+***
 {% endcolumn %}
 
 {% column width="50%" %}
+***
+
 **Pit**
 
 The pit is where all the teams are when not competing. Each team will be assigned a table where they can rest or work on the robot.
+
+
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -39,12 +49,16 @@ The pit is where all the teams are when not competing. Each team will be assigne
 **Practice Field**
 
 This is not a always guarantee, but some competitions will have a practice field set up that teams can use to test and fix their robots, though some competitions may require you to sign-up for a time.
+
+***
 {% endcolumn %}
 
 {% column %}
 **Practice Rounds**
 
 Not to be confused with practice fields, practice rounds are matches that occur before official matches begin to give teams a chance to practice, they usually appear at larger competitions
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -53,12 +67,18 @@ Not to be confused with practice fields, practice rounds are matches that occur 
 **Qualification Rounds**
 
 This is the real stuff. Qualification rounds are matches you play to determine your ranking (a combination of win points, autonomous points, and strength of schedule points, more information [here](https://v5rc-kb.recf.org/hc/en-us/articles/9654355674903-Tournament-Ranking-Calculations))
+
+***
 {% endcolumn %}
 
 {% column %}
 **Pit display**
 
 This is a display that usually appears... in the pit, it displays every team's name, ranking, along with upcoming matches.
+
+
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -67,9 +87,13 @@ This is a display that usually appears... in the pit, it displays every team's n
 **Interviews**
 
 Throughout the duration of qualification matches, judges will go around the pit area and interview teams about their robot. This is not only an assessment of authenticity, its also a chance to demonstrate your team's design process and thinking. (More information [here](../../judging/judge-interviews.md))
+
+***
 {% endcolumn %}
 
 {% column %}
-Skills Challenge
+**Skills**&#x20;
+
+Unlike the aforementioned matches, a skills match is only played by one team at a time, with a different field setup. The goal of a skills match is to score as high as possible. Both driver skills and programming skills are available.
 {% endcolumn %}
 {% endcolumns %}
