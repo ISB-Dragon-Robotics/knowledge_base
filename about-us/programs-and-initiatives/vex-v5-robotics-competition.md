@@ -128,7 +128,7 @@ After alliance selection is finished, elimination rounds begin. This is played i
 
 **Awards**
 
-At the end of the event, awards are given out to teams, these are seperated into Judged Awards and Performance Awards. Performance Awards are determined by rank, with the elimination bracket winner obtaining the "Tournament Champion" award. Judged awards, however, take into account your engineering notebook, your robot, team interview, etc. Awards like the Innovate award is given to a team that highlights an innovative aspect of their robot in their engineering notebook. At some events, awards can qualify for a higher-level event, eg. ACAMIS North -> ACAMIS Nationals -> VEX Worlds. In most cases in chinese intl. school leagues, this award is the Exellence Award.
+At the end of the event, awards are given out to teams, these are seperated into Judged Awards and Performance Awards. Performance Awards are determined by rank, with the elimination bracket winner obtaining the "Tournament Champion" award. Judged awards, however, take into account your engineering notebook, your robot, team interview, etc. Awards like the Innovate award is given to a team that highlights an innovative aspect of their robot in their engineering notebook. At some events, awards can qualify for a higher-level event, eg. ACAMIS North -> ACAMIS Nationals -> VEX Worlds. In most cases in Chinese intl. school leagues, this award is the Excellence Award.
 
 
 
