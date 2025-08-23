@@ -18,7 +18,7 @@ In robotics, we often need to model things as it allows us to make things simple
 
 To begin, imagine a wheel on an infinite 2d plane, where the positive y-axis points upward and x points right.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Wheel on a 2D plane (with Y and X-axis)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wheel on a 2D plane (with Y and X-axis)</p></figcaption></figure>
 
 Now, consider the front of the wheel as the “head” of the wheel, and the direction that it is pointing at an angle of $$0°$$degrees (initially). For me, I like to consider that when the wheel turns right, the angle increases, and when it turns left, it decreases.&#x20;
 
@@ -26,7 +26,7 @@ Finally, the wheel spontaneously starts spinning at a constant rate. It rolls on
 
 Now, imagine that the wheel spins at the same constant speed. However, the angle that the robot heads in also increases at a constant rate. Imagine this in your head, you realize that the robot moves forward but also curves to the right (positive x direction). Now, calculating the final position of the robot from its speed is no longer as trivial. However, if we observe closely, we realize that the path the wheel is following looks like a circle. Using this fact, we can start to break out the math.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Initially, the robot is at a heading of $$0°$$, but it is increasing at a steady rate of, say, $$𝜔$$ degrees per second. As such, the change in the wheel’s heading during a time $$∆𝑡$$ seconds is just $$𝜔\times∆𝑡$$. We call this $$∆𝜃$$, the change in heading. (In most contexts, $$∆$$ before a variable means the change in the variable). From the previous paragraph, we know that the path the wheel traces out follows a part of a circle. If we draw out this part, it looks like a pizza slice, which is illustrated above. Now, in fact, the angle made by the two arms of the pizza slice is actually equal to the change in our heading $$∆𝜃$$. Furthermore, each of the arms is equal in length (because they are radii), and has length $$𝑟$$. From this, we can start to work out our position.&#x20;
 
