@@ -14,6 +14,8 @@ a match is played in a **2 v 2 format**, with two teams joining forced to form a
 
 V5RC robots follows a **whitelist system**, with only parts explicitly allowed by VEX can be used on the robot.
 
+all V5RC teams are recommended to write an **Engineering Notebook**, a journal that records your team's scheduling, planning, development, testing, and reflections throughout the developmental journey of your robot. This notebook can then be submitted at competitions for awards (see below).
+
 V5RC abides by the **RECF Student-Centered Policy,** meaning that even though coaches/supervisors are allowed to teach and mentor, they are barred from helping students in the development, building or documenting the robot in any way.
 
 ### At a competition
