@@ -6,14 +6,7 @@ description: Page by Samuel Yao (ISB)
 
 The ISB Robotics Knowledge Base was created in May 2024 by Samuel Yao for the purposes of storing historical club documentation of the ISB Robotics Club. Initially only as a CAS project including Samuel Yao, Leon Zhu and George Xu to fulfill the Creativity, Action & Service (CAS) component of the IB Diploma, this website serves as the source of information for the club, containing the contributions of several current and former ISB Robotics members.&#x20;
 
-## Site Contributors:
-
-* Samuel Yao (ISB, Site Founder)
-* William Pan (ISB)
-* Jun Lee (VEXU Team ILLINI, ISB)
-* Silas Brock (ISB)
-* Leon Zhu (ISB)
-* George Xu (ISB)
+A complete list of current and former contributors to the Knowledge Base can be seen on the [homepage](../../).
 
 ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki, IIWII Robotics Wiki, the RECF Library and the VEX Library for the inspiration of this knowledge base.
 
