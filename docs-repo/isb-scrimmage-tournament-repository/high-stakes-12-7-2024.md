@@ -8,7 +8,7 @@ The ISB HS Robotics Club hosted a VRC scrimmage as the ISB ES Theatre, with part
 
 Congratulations to 86832A and 86832B for becoming tournament champions!
 
-Please contact Samuel Yao (yaoshisamuel@gmail.com) for further information inquiries about the ISB Robotics Scrimmage.
+Please contact Samuel Yao (yaoshisamuel@gmail.com) for further information inquiries about the ISB Robotics Scrimmage in 2024.&#x20;
 
 ### Event Documents
 

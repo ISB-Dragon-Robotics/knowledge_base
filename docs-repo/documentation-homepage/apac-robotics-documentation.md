@@ -10,7 +10,7 @@ coverY: 0
 
 ### Event Documentation
 
-Only limited information from the tournament has been publicly given via the tournament website, as attached below. We are in the process of collecting additional information.&#x20;
+Only limited information from the tournament has been publicly given via the tournament website, as attached below. Other information not shown below seems to be lost as of September 2025.&#x20;
 
 {% file src="../../.gitbook/assets/Qualification_Match_List_FINAL (1).pdf" %}
 Qualification Match Schedule. There is no complete record of match results for both qualification and elimination matches currently.
