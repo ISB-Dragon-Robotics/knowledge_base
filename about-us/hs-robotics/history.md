@@ -30,11 +30,11 @@ The current organization team number 86832 was first adopted in the 2018-2019 Tu
 
 The former logo for the ISB Robotics Club was adopted around 2019 and designed by the HS Robotics Executive Team. In 2024, the logo was redesigned by Draxonics, a student club focusing on design (Sophie Bai, Polly Su, Yuki Liu, Sienna Wong, Julian Yu, Janelle Yue) to better reflect the style guidelines of the International School of Beijing.&#x20;
 
-Although most students primarily stay within one of the four teams, teams are flexible and may switch teams between competition seasons under the guidance of club advisors and the executive team. When such information is available, the current and past members of each team are listed on the respective team pages of the site.
+Although most students primarily stayed within one of the four teams, teams were flexible and members could switch teams between competition seasons under the guidance of club advisors and the executive team. When such information was available, the current and past members of each team were listed on the respective team pages of the site.
 
 Before the creation of the ISB MS/HS Design Center, the HS Robotics Club was hosted in an EdTech classroom opposite the HS Office (now known as the "Dragon's Den"). In the 2020-2021 school year, after the construction of the design center, HS Robotics took place in the dedicated robotics area near the rear of the design center adjacent to design center offices, art classrooms and the computer science classroom.&#x20;
 
-At the start of the 2024-2025 V5RC High Stakes, season, there are \~50 members within ISB High School Robotics, making the club one of the largest and oldest student clubs in the High School of the International School of Beijing. There are also \~20 students in the ISB Middle School Robotics Teams.
+At the start of the 2024-2025 V5RC High Stakes season, the club had expanded to a record size of \~50 High School members, making the club the largest High School club at the International School of Beijing. There were also \~20 students in the ISB Middle School Robotics teams.
 
-After the High Stakes season head coach (Mr. Daryl Harkin) instated a 6-person limit per team, as a result, after the start of the 2025-2025 school year around August 20th, 4 additional teams were formally created, bearing the letters W,X,Y, and Z.&#x20;
+Near the end of the High Stakes season, head coach (Mr. Daryl Harkin) instated a 6-person limit per team to match the number of students allowed per team for APAC events, as well as to meet the demands of a growing club. As a result, around August 20th, 4 additional teams were formally created and registered on RobotEvents, bearing the letters W,X,Y, and Z during the start of the 2025-2026 school year.&#x20;
 
