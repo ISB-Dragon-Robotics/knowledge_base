@@ -1,5 +1,5 @@
 ---
-description: Page by Samuel Yao and Patrick Young (ISB)
+description: Page by Samuel Yao, Patrick Young, and Eddie Xu (ISB)
 cover: ../../.gitbook/assets/Robotics (2).jpg
 coverY: 0
 ---
