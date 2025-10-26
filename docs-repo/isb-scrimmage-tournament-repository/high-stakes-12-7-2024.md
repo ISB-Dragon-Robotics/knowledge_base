@@ -4,6 +4,8 @@ description: Page by Samuel Yao (ISB) & George Xu (ISB)
 
 # High Stakes (12/7/2024)
 
+<figure><img src="../../.gitbook/assets/FED12E61-9D95-4DEE-9646-B0FEAE1D6F01_1_105_c.jpeg" alt="" width="563"><figcaption><p>ISB Robotics Scrimmage 2024 Group Photo</p></figcaption></figure>
+
 The ISB HS Robotics Club hosted a VRC scrimmage as the ISB ES Theatre, with participating teams from the International School of Beijing, Beijing City International School and the Western Academy of Beijing.&#x20;
 
 Congratulations to 86832A and 86832B for becoming tournament champions!
@@ -24,8 +26,8 @@ Please contact Samuel Yao (yaoshisamuel@gmail.com) for further information inqui
 
 The HS Robotics Executive Team would like to thank all of the volunteers and team members who helped out during the event, including:
 
-* Amanda Chang - Event Partner/Supervising Teacher
-* Andrew Walton - Event Partner/Supervising Teacher
+* Amanda Chang - Supervising Teacher
+* Andrew Walton - Supervising Teacher
 * Cindy Wu - Scorekeeper Referee
 * Daryl Harkin - Event Partner/Supervising Teacher
 * Emily Zhou - Pit Admin/Field Reset
@@ -36,7 +38,7 @@ The HS Robotics Executive Team would like to thank all of the volunteers and tea
 * Ryan Yao - Scorekeeper Referee
 * Samuel Yao - Head Referee/Volunteer Coordinator/TM Operator
 * Sophie Wang - Pit Admin/Field Reset
-* Susan Su - Event Partner/Supervising Teacher
+* Susan Su - Supervising Teacher
 * William Pan - Pit Admin
 
 The Executive Team would also like to thank BCIS for providing additional field and game elements for the scrimmage, ISB Theatre staff for live stream and media setup, and Sodexo for event setup and cleanup assistance. Without everyone who has helped and assisted us, including our student volunteers, adult volunteers, school staff and community members, this even would not have been possible.&#x20;

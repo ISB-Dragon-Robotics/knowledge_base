@@ -43,7 +43,7 @@ The HS Robotics Executive Team would like to thank all volunteers who helped out
 * Candy Wei - ISB Live
 * Cindy Wu - Scorekeeper Referee
 * Jia Lee - Scorekeeper Referee
-* Samuel Yao - Volunteer Coordinator/Tournament Manager Operator/Scorekeeper Referee
+* Samuel Yao - Volunteer Coordinator/Scorekeeper Referee/Tournament Manager Operator
 * Silas Brock - Head Referee/Inspector
 
 The Executive Team would also like to recognize BCIS for providing an additional field for the scrimmage, the ISB Communications Department for event photography, ISB Theatre staff for live stream and media setup, and Sodexo for event setup.
