@@ -47,6 +47,7 @@ Other users who wish to submit changes/updates without submitting a pull request
 * Silas Brock (ISB)
 * Leon Zhu (ISB)
 * George Xu (ISB)
+* Eddie Xu (ISB)
 
 ISB Robotics would like to thank the creators and contributors of the Purdue SigBots Wiki, IIWII Robotics Wiki, the RECF Library and the VEX Library for the inspiration of this knowledge base.
 
