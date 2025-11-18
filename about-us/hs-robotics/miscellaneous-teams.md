@@ -14,8 +14,8 @@ In some years of ISB HS Robotic history, there are some teams that are created u
 * Matthew Kim
 * Ray Han
 * Kevin Kang
-* David ?
-* Minseo (Former)
+* David (Nam?)
+* Minseo (Kim?) (Former)
 
 ### 2019-2020 Tower Takeover:
 
