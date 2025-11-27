@@ -51,7 +51,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 
 ### 2024-2025
 
-* Samuel Yao (Club President)
+* Samuel Yao (Club President & MS Robotics Coordinator)
 * Ryan Quon (Vice President)
 * Bowen Ke (Club Secretary)
 * George Xu (Lead Designer)
