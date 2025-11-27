@@ -6,14 +6,13 @@ description: Page by Samuel Yao (ISB)
 
 ## Competition & Awards History
 
-
-
 ## Member History
 
 ### 2025-2026 Push Back (Team name: Cognitio):
 
-* Emma Zhang
+* Emma Zhang (Team Captain)
 * Jessica Hu
-* Mackenzie
-* Serena
-* Tina
+* Mackenzie Ma
+* Serena Liu
+* Tina Tang
+* Minghon Li

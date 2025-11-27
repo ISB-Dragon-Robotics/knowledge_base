@@ -6,14 +6,13 @@ description: Page by Samuel Yao (ISB)
 
 ## Competition & Awards History
 
-
-
 ## Member History
 
 ### 2025-2026 Push Back (Team name: em\&m's):
 
-* Emily Zhou
+* Emily Zhou (Team Captain)
 * Aiden Kim
 * David Yao
-* Erna
+* Erna He
 * Sophie Wang
+* Thomas Yeung

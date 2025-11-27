@@ -6,14 +6,12 @@ description: Page by Samuel Yao (ISB)
 
 ## Competition & Awards History
 
-
-
 ## Member History
 
 ### 2025-2026 Push Back (Team name: deep fried rectangles):
 
-* Tairan
-* Kevin
-* Noah
-* Silas
-
+* Tairan Xu (Team Captain)
+* Kevin Li
+* Noah Hui
+* Silas Wang
+* Arthur Li

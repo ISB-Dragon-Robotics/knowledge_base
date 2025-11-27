@@ -15,7 +15,7 @@ As of 2024, the HS Executive Team consists of 8 _de jure_ positions with some le
 * Club President: Student leader of ISB HS Robotics.
 * Vice President: Deputy student leader of ISB HS Robotics.
 * Club Secretary: Manages club finances, attendance and other administrative matters.
-* Lead Designer: Leads education of tool-assisted design, design documentation and design cycle processes.&#x20;
+* Lead Designer: Leads education of tool-assisted design, design documentation and design cycle processes.
 * Lead Programmer: Leads teaching of programming, software tools and sensors.
 * Lead Engineer: Leads introduction and teaching of building, engineering, electrical and pneumatic construction.
 * _MS Robotics Coordinator: Leads the_ [_Student Mentorship Program_](../programs-and-initiatives/student-mentorship.md)_._
@@ -51,7 +51,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 
 ### 2024-2025
 
-* Samuel Yao (Club President, MS Robotics Coordinator)
+* Samuel Yao (Club President)
 * Ryan Quon (Vice President)
 * Bowen Ke (Club Secretary)
 * George Xu (Lead Designer)
@@ -64,7 +64,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Myungjun (Jun) Lee (Co-President)
 * Ryan Quon (Club Secretary)
 * Taylor Kim (Lead Programmer)
-* Samuel Yao (Lead Engineer, _de facto_ MS Robotics Coordinator)
+* Samuel Yao (Lead Engineer)
 
 ### 2022-2023
 
@@ -98,7 +98,7 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Victor Ren
 * Austin Zeng
 * Hannah Lu
-* Vanessa Quon&#x20;
+* Vanessa Quon
 
 ### 2016-2017 (tentative list)
 
@@ -117,4 +117,4 @@ The ISB Robotics Club would like to acknowledge the contributions of previous HS
 * Saksham Bausal (Secretary)
 * Tim Park (Public Relations)
 
-Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented or documented. Executive roles are included when there is available information from historical club documentation.&#x20;
+Due to the loss of historical club documentation, executive team members in past school years not mentioned above are not represented or documented. Executive roles are included when there is available information from historical club documentation.
